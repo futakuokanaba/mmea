@@ -180,7 +180,8 @@ if page == "🏠 Landing Page":
             <p style="font-size:13px;color:#52657e;line-height:1.6">
             Industri MMEA memiliki karakteristik rantai pasok, penjualan, produksi, importasi,
             dan distribusi yang kompleks. Model risiko dibangun dari data historis WP-Tahun untuk
-            mengidentifikasi kombinasi risiko kemungkinan dan dampak yang tinggi.</p></div>""",
+            mengidentifikasi kombinasi risiko kemungkinan dan dampak yang tinggi. 
+            Diperlukan tools pengawasan WP sektor MMEA untuk mendukung fungsi regulerend.</p></div>""",
             unsafe_allow_html=True,
         )
     with col2:
@@ -213,8 +214,8 @@ if page == "🏠 Landing Page":
         st.markdown(
             """<div class="info-card"><h4>🧑‍💼 Susunan Tim</h4>
             <ul style="font-size:13px;color:#52657e;line-height:1.7">
-            <li>Project Sponsor</li><li>Business Analyst</li><li>Data Analyst</li>
-            <li>Data Engineer</li><li>Data Scientist</li></ul></div>""",
+            <li>Business Leader: Aji M. Elvin Nor</li><li>Business Analyst: Andriani Saparingsih</li><li>Data Engineer: Nabila Ghina Naufalita</li>
+            <li>Data Scientist - Statistical Modelling: Tasiman</li><li>Data Scientist - Visualization: Dwi Purwanto</li></ul></div>""",
             unsafe_allow_html=True,
         )
     with col5:
