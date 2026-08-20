@@ -180,7 +180,7 @@ if page == "🏠 Landing Page":
             <p style="font-size:13px;color:#52657e;line-height:1.6">
             Industri MMEA memiliki karakteristik rantai pasok, penjualan, produksi, importasi,
             dan distribusi yang kompleks. Model risiko dibangun dari data historis WP-Tahun untuk
-            mengidentifikasi kombinasi risiko kemungkinan dan dampak yang tinggi. 
+            mengidentifikasi kombinasi risiko kemungkinan dan dampak yang tinggi.<br> 
             Diperlukan tools pengawasan WP sektor MMEA untuk mendukung fungsi regulerend.</p></div>""",
             unsafe_allow_html=True,
         )
