@@ -1,0 +1,662 @@
+NPWP9_Masking,TAHUN_PETA,NAMA_WP_Masking,NAMA_KPP,NAMA_KANWIL,JENIS_WP,X_001,X_002,X_003,X_004,X_005,X_006,X_007,Y_001,Y_002,SKOR_X,SKOR_Y,KUADRAN_X,KUADRAN_Y,KUADRAN,LEVEL_RISIKO
+NPWP_001,2022,Wajib Pajak 001,KPP Wajib Pajak Besar Dua,Kanwil DJP Wajib Pajak Besar,BADAN,0.0,0.0,0.0,0.0,0.6431538067845795,0.6972516858916351,0.22,10513722008282.545,645838817390.0,0.9966666666666668,10513722008282.545,3,3,X3Y3,Tinggi
+NPWP_002,2022,Wajib Pajak 002,KPP Penanaman Modal Asing Empat,Kanwil DJP Jakarta Khusus,BADAN,0.0,0.0,0.0,0.0,0.0,0.089313424096963,0.22,50821265678.24011,2438499629.0,0.9994444444444444,50821265678.24011,3,3,X3Y3,Tinggi
+NPWP_003,2022,Wajib Pajak 003,KPP Wajib Pajak Besar Dua,Kanwil DJP Wajib Pajak Besar,BADAN,1.0,0.0,0.0,0.0,0.0092089757324243,0.3166763861845007,0.22,0.0,268762430696.0,1.0,268762430696.0,3,3,X3Y3,Tinggi
+NPWP_004,2022,Wajib Pajak 004,KPP Pratama Palembang Ilir Barat,Kanwil DJP Sumatera Selatan dan Kepulauan Bangka Belitung,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_005,2022,Wajib Pajak 005,KPP Madya Medan,Kanwil DJP Sumatera Utara I,BADAN,0.0,0.0,0.0,0.0,1.1770956867784663,0.519935921216553,0.22,261550168248.0,223236286125.0,0.9933333333333332,261550168248.0,3,3,X3Y3,Tinggi
+NPWP_006,2022,Wajib Pajak 006,KPP Madya Denpasar,Kanwil DJP Bali,BADAN,1.0,0.0,0.0,0.0,0.0,0.1970521807499387,0.1779584467408235,0.0,39933328.0,0.6844444444444445,39933328.0,3,1,X3Y1,Sedang
+NPWP_007,2022,Wajib Pajak 007,KPP Pratama Medan Polonia,Kanwil DJP Sumatera Utara I,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_008,2022,Wajib Pajak 008,KPP Madya Tangerang,Kanwil DJP Banten,BADAN,1.0,0.0,0.0,0.0,1.5712343156861028,0.6363125356977019,0.22,0.0,908985165454.0,1.0,908985165454.0,3,3,X3Y3,Tinggi
+NPWP_009,2022,Wajib Pajak 009,KPP Madya Surabaya,Kanwil DJP Jawa Timur I,BADAN,0.0,0.0,0.0,0.3616813294232649,0.0,0.4229892338490528,0.1646421406540601,0.0,0.0,0.7166666666666667,0.0,3,1,X3Y1,Sedang
+NPWP_010,2022,Wajib Pajak 010,KPP Madya Medan,Kanwil DJP Sumatera Utara I,BADAN,0.0,0.0,0.0,0.0,0.0,0.0421478000345332,0.1420385460176221,0.0,0.0,0.4856666666666666,0.0,2,1,X2Y1,Rendah
+NPWP_011,2022,Wajib Pajak 011,KPP Pratama Medan Timur,Kanwil DJP Sumatera Utara I,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_012,2022,Wajib Pajak 012,KPP Madya Dua Jakarta Barat,Kanwil DJP Jakarta Barat,BADAN,0.0,0.0,0.0,0.0,0.0,0.0652421500157709,0.1913206633035312,0.0,0.0,0.9827777777777778,0.0,3,1,X3Y1,Sedang
+NPWP_013,2022,Wajib Pajak 013,KPP Madya Bogar,Kanwil DJP Jawa Barat III,BADAN,1.0,0.0,0.0,0.0,1.6932676415422214,0.5451904668521992,0.22,0.0,286848025464.0,1.0,286848025464.0,3,3,X3Y3,Tinggi
+NPWP_014,2022,Wajib Pajak 014,KPP Madya Jakarta Barat,Kanwil DJP Jakarta Barat,BADAN,0.0,0.0,0.0,0.0,0.0,0.3220338879708949,0.187488317314114,0.0,0.0,0.9673333333333332,0.0,3,1,X3Y1,Sedang
+NPWP_015,2022,Wajib Pajak 015,KPP Madya Denpasar,Kanwil DJP Bali,BADAN,1.0,0.0,0.0,0.0,0.0072913848070797,0.1770339788682331,0.22,518363348.0,689749008.0,0.9033333333333332,689749008.0,3,2,X3Y2,Tinggi
+NPWP_016,2022,Wajib Pajak 016,KPP Madya Dua Semarang,Kanwil DJP Jawa Tengah I,BADAN,0.0,0.0,0.0,0.0,1.258490294444956,0.6259371158719258,0.22,0.0,253345759788.0,0.9966666666666668,253345759788.0,3,3,X3Y3,Tinggi
+NPWP_017,2022,Wajib Pajak 017,KPP Madya Denpasar,Kanwil DJP Bali,BADAN,1.0,0.0,0.0,0.0,0.0,0.3346789757022389,0.22,0.0,0.0,0.9916666666666668,0.0,3,1,X3Y1,Sedang
+NPWP_018,2022,Wajib Pajak 018,KPP Pratama Tebing Tinggi,Kanwil DJP Sumatera Utara II,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,5530862470.0,0.0,5530862470.0,1,3,X1Y3,Sedang
+NPWP_019,2022,Wajib Pajak 019,KPP Madya Tangerang,Kanwil DJP Banten,BADAN,1.0,0.0,0.0,0.0,1.8336449316359371,0.5622405121922323,0.22,0.0,697382088978.0,1.0,697382088978.0,3,3,X3Y3,Tinggi
+NPWP_020,2022,Wajib Pajak 020,KPP Madya Dua Semarang,Kanwil DJP Jawa Tengah I,BADAN,0.0,0.0,0.0,0.0,0.0,0.1153543251929993,0.22,0.0,0.0,0.9994444444444444,0.0,3,1,X3Y1,Sedang
+NPWP_021,2022,Wajib Pajak 021,KPP Pratama Lubuk Pakam,Kanwil DJP Sumatera Utara I,BADAN,1.0,0.0,0.0,0.0,0.0,0.3680094924870253,0.1743810727644033,0.0,0.0,0.99,0.0,3,1,X3Y1,Sedang
+NPWP_022,2022,Wajib Pajak 022,KPP Madya Malang,Kanwil DJP Jawa Timur III,BADAN,1.0,0.0,0.0,0.0972971845853635,1.3384787226411752,0.6626841054630621,0.22,0.0,288167404044.0,0.99,288167404044.0,3,3,X3Y3,Tinggi
+NPWP_023,2022,Wajib Pajak 023,KPP Madya Tangerang,Kanwil DJP Banten,BADAN,0.0,0.0,0.0,0.0,0.0,0.2993197403847565,0.22,0.0,183544022.0,0.9633333333333334,183544022.0,3,2,X3Y2,Tinggi
+NPWP_024,2022,Wajib Pajak 024,KPP Pratama Batam Selatan,Kanwil DJP Kepulauan Riau,BADAN,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.615,0.0,3,1,X3Y1,Sedang
+NPWP_025,2022,Wajib Pajak 025,KPP Pratama Tanjung Balai Karimun,Kanwil DJP Kepulauan Riau,BADAN,0.0,1.0,0.0,0.0,0.0,0.0536586273381546,0.0,0.0,0.0,0.2766666666666666,0.0,2,1,X2Y1,Rendah
+NPWP_026,2022,Wajib Pajak 026,KPP Pratama Singaraja,Kanwil DJP Bali,BADAN,1.0,0.0,0.0,0.0,0.1469046245728474,0.010704703161773,0.0,0.0,623511565.0,0.6633333333333333,623511565.0,3,2,X3Y2,Tinggi
+NPWP_027,2022,Wajib Pajak 027,KPP Madya Denpasar,Kanwil DJP Bali,BADAN,0.0,0.0,0.0,0.0,0.0,0.2582820148900702,0.22,0.0,0.0,0.95,0.0,3,1,X3Y1,Sedang
+NPWP_246,2022,Wajib Pajak 246,KPP Pratama Batu,Kanwil DJP Jawa Timur III,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_028,2022,Wajib Pajak 028,KPP Pratama Singaraja,Kanwil DJP Bali,BADAN,0.0,0.0,0.0,0.0,0.0,0.1808159517274079,0.1759160377422691,6563141216.600002,0.0,0.7251111111111112,6563141216.600002,3,3,X3Y3,Tinggi
+NPWP_029,2022,Wajib Pajak 029,KPP Pratama Lubuk Pakam,Kanwil DJP Sumatera Utara I,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_245,2022,Wajib Pajak 245,KPP Pratama Jakarta Kemayoran,Kanwil DJP Jakarta Pusat,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_030,2022,Wajib Pajak 030,KPP Madya Dua Semarang,Kanwil DJP Jawa Tengah I,BADAN,1.0,0.0,0.0,0.0,0.7906791890784306,0.4691833123636368,0.0,0.0,228497461529.0,1.0,228497461529.0,3,3,X3Y3,Tinggi
+NPWP_244,2022,Wajib Pajak 244,KPP Pratama Singaraja,Kanwil DJP Bali,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_243,2022,Wajib Pajak 243,KPP Pratama Semarang Barat,Kanwil DJP Jawa Tengah I,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.1512936092388212,0.0,0.0,0.05,0.0,2,1,X2Y1,Rendah
+NPWP_031,2022,Wajib Pajak 031,KPP Pratama Binjai,Kanwil DJP Sumatera Utara I,BADAN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_242,2022,Wajib Pajak 242,KPP Pratama Singaraja,Kanwil DJP Bali,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_241,2022,Wajib Pajak 241,KPP Pratama Jakarta Cilandak,Kanwil DJP Jakarta Selatan II,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_240,2022,Wajib Pajak 240,KPP Pratama Gianyar,Kanwil DJP Bali,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_239,2022,Wajib Pajak 239,KPP Pratama Kotamobagu,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_238,2022,Wajib Pajak 238,KPP Pratama Singaraja,Kanwil DJP Bali,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_032,2022,Wajib Pajak 032,KPP Madya Denpasar,Kanwil DJP Bali,BADAN,1.0,0.0,0.0,0.0,1.1431076386552703,0.7153811597320747,0.22,0.0,443907332664.0,0.9833333333333332,443907332664.0,3,3,X3Y3,Tinggi
+NPWP_237,2022,Wajib Pajak 237,KPP Pratama Tabanan,Kanwil DJP Bali,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_236,2022,Wajib Pajak 236,KPP Pratama Sleman,Kanwil DJP Daerah Istimewa Yogyakarta,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_235,2022,Wajib Pajak 235,KPP Pratama Gianyar,Kanwil DJP Bali,BADAN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1430378484.9605002,0.0,0.0,1430378484.9605002,1,3,X1Y3,Sedang
+NPWP_234,2022,Wajib Pajak 234,KPP Pratama Kupang,Kanwil DJP Nusa Tenggara,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_233,2022,Wajib Pajak 233,KPP Pratama Balige,Kanwil DJP Sumatera Utara II,BADAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_232,2022,Wajib Pajak 232,KPP Pratama Jakarta Kebon Jeruk Satu,Kanwil DJP Jakarta Barat,BADAN,0.0,0.0,0.0,0.0,0.0,0.0687742288314732,0.0,0.0,0.0,0.6101111111111112,0.0,3,1,X3Y1,Sedang
+NPWP_231,2022,Wajib Pajak 231,KPP Pratama Denpasar Timur,Kanwil DJP Bali,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_230,2022,Wajib Pajak 230,KPP Pratama Bitung,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_033,2022,Wajib Pajak 033,KPP Madya Malang,Kanwil DJP Jawa Timur III,BADAN,1.0,0.0,0.0,0.0,0.9577010477723538,0.5218194773839204,0.0,951509556.399994,19159030787.0,0.9866666666666668,19159030787.0,3,3,X3Y3,Tinggi
+NPWP_229,2022,Wajib Pajak 229,KPP Pratama Tabanan,Kanwil DJP Bali,BADAN,1.0,0.0,0.0,0.0,0.0,0.5463631470840611,0.2048329548113471,903578969456.7177,0.0,0.9666666666666668,903578969456.7177,3,3,X3Y3,Tinggi
+NPWP_034,2022,Wajib Pajak 034,KPP Pratama Tabanan,Kanwil DJP Bali,BADAN,0.0,0.0,0.0,0.0,0.0,0.394760812999254,0.11,2568468556.8,0.0,0.4778888888888889,2568468556.8,2,3,X2Y3,Tinggi
+NPWP_035,2022,Wajib Pajak 035,KPP Pratama Tabanan,Kanwil DJP Bali,BADAN,1.0,0.0,0.0,0.0,235.06366307541623,0.0066594655100041,0.0,0.0,2200000000.0,0.68,2200000000.0,3,3,X3Y3,Tinggi
+NPWP_228,2022,Wajib Pajak 228,KPP Pratama Kupang,Kanwil DJP Nusa Tenggara,BADAN,0.0,0.0,0.0,0.0,0.0,0.3958409098370747,0.0,1001639604.0,0.0,0.9312222222222224,1001639604.0,3,3,X3Y3,Tinggi
+NPWP_227,2022,Wajib Pajak 227,KPP Pratama Kotamobagu,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_226,2022,Wajib Pajak 226,KPP Pratama Jakarta Grogol Petamburan,Kanwil DJP Jakarta Barat,BADAN,0.0,1.0,0.0,0.0,0.0,0.5973462568105037,0.0,0.0,0.0,0.615,0.0,3,1,X3Y1,Sedang
+NPWP_225,2022,Wajib Pajak 225,KPP Pratama Semarang Barat,Kanwil DJP Jawa Tengah I,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_224,2022,Wajib Pajak 224,KPP Pratama Singaraja,Kanwil DJP Bali,BADAN,1.0,0.0,0.0,0.0,0.0373079446323011,0.1995264381009245,0.1508541513627693,0.0,37728079.0,0.9066666666666666,37728079.0,3,1,X3Y1,Sedang
+NPWP_036,2022,Wajib Pajak 036,KPP Madya Dua Semarang,Kanwil DJP Jawa Tengah I,BADAN,0.0,0.0,0.0,0.0,1.4284869761930332,0.6425608221023449,0.22,0.0,297129081405.0,0.9933333333333332,297129081405.0,3,3,X3Y3,Tinggi
+NPWP_223,2022,Wajib Pajak 223,KPP Pratama Kupang,Kanwil DJP Nusa Tenggara,BADAN,0.0,0.0,0.0,0.0,0.0,0.3575643076680589,0.11,5071868700.0,0.0,0.4778888888888889,5071868700.0,2,3,X2Y3,Tinggi
+NPWP_222,2022,Wajib Pajak 222,KPP Pratama Tanjung Pinang,Kanwil DJP Kepulauan Riau,BADAN,0.0,0.0,0.0,0.0435047934014449,0.0,0.2435595355140186,0.11,0.0,0.0,0.0533333333333333,0.0,2,1,X2Y1,Rendah
+NPWP_221,2022,Wajib Pajak 221,KPP Pratama Kotamobagu,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",BADAN,0.0,0.0,0.0,0.0,0.0,0.4016095587181978,0.22,0.0,225861784.0,1.0,225861784.0,3,2,X3Y2,Tinggi
+NPWP_220,2022,Wajib Pajak 220,KPP Pratama Jakarta Kebayoran Baru Dua,Kanwil DJP Jakarta Selatan II,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_219,2022,Wajib Pajak 219,KPP Pratama Manado,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",BADAN,0.0,1.0,0.0,0.0,0.0,0.2328733235087322,0.0,0.0,0.0,0.32,0.0,2,1,X2Y1,Rendah
+NPWP_218,2022,Wajib Pajak 218,KPP Pratama Denpasar Barat,Kanwil DJP Bali,BADAN,1.0,0.0,0.0,0.0,0.0442452205699515,0.1134705004836222,0.0,8826855682.0,528298800.0,0.9433333333333334,8826855682.0,3,3,X3Y3,Tinggi
+NPWP_039,2022,Wajib Pajak 039,KPP Madya Denpasar,Kanwil DJP Bali,BADAN,1.0,0.0,0.0,0.0,0.2741274675448517,0.4973989245482935,0.22,0.0,358164110214.0,1.0,358164110214.0,3,3,X3Y3,Tinggi
+NPWP_217,2022,Wajib Pajak 217,KPP Madya Dua Jakarta Barat,Kanwil DJP Jakarta Barat,BADAN,0.0,0.0,0.0,0.0,0.0,0.4241823401444644,0.0,0.0,15454545.0,0.9112222222222224,15454545.0,3,1,X3Y1,Sedang
+NPWP_216,2022,Wajib Pajak 216,KPP Pratama Singaraja,Kanwil DJP Bali,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_215,2022,Wajib Pajak 215,KPP Pratama Kotamobagu,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_214,2022,Wajib Pajak 214,KPP Pratama Singaraja,Kanwil DJP Bali,BADAN,0.0,0.0,0.0,0.0,0.0,0.3161999991977041,0.11,568238172.0,0.0,0.3128888888888889,568238172.0,2,2,X2Y2,Sedang
+NPWP_040,2022,Wajib Pajak 040,KPP Pratama Tegal,Kanwil DJP Jawa Tengah I,BADAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_213,2022,Wajib Pajak 213,KPP Pratama Makassar Utara,"Kanwil DJP Sulawesi Selatan, Barat, dan Tenggara",BADAN,0.0,0.0,0.0,0.0,0.0,0.3494510048055024,0.11,0.0,0.0,0.4395555555555556,0.0,2,1,X2Y1,Rendah
+NPWP_041,2022,Wajib Pajak 041,KPP Pratama Semarang Gayamsari,Kanwil DJP Jawa Tengah I,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_042,2022,Wajib Pajak 042,KPP Pratama Bitung,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",BADAN,1.0,0.0,0.0,0.0,0.0,0.0772587794937705,0.0,0.0,0.0,0.885,0.0,3,1,X3Y1,Sedang
+NPWP_211,2022,Wajib Pajak 211,KPP Pratama Serang Timur,Kanwil DJP Banten,BADAN,0.0,0.0,0.0,0.0,0.0,0.07412772763518,0.22,0.0,0.0,0.9994444444444444,0.0,3,1,X3Y1,Sedang
+NPWP_210,2022,Wajib Pajak 210,KPP Pratama Kotamobagu,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_209,2022,Wajib Pajak 209,KPP Pratama Singaraja,Kanwil DJP Bali,BADAN,0.0,0.0,0.0,0.0,0.0302009096274976,0.7225375207099071,0.1993497239430415,0.0,1047233585.0,0.94,1047233585.0,3,3,X3Y3,Tinggi
+NPWP_208,2022,Wajib Pajak 208,KPP Pratama Kotamobagu,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_207,2022,Wajib Pajak 207,KPP Pratama Sidoarjo Utara,Kanwil DJP Jawa Timur II,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_206,2022,Wajib Pajak 206,KPP Pratama Bitung,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",BADAN,0.0,0.0,0.0,0.0,0.0,0.1038018541310541,0.11,7200000.0,0.0,0.2901111111111111,7200000.0,2,1,X2Y1,Rendah
+NPWP_205,2022,Wajib Pajak 205,KPP Pratama Singaraja,Kanwil DJP Bali,BADAN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8055600.0,0.0,0.0,8055600.0,1,1,X1Y1,Rendah
+NPWP_204,2022,Wajib Pajak 204,KPP Pratama Manado,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",BADAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_203,2022,Wajib Pajak 203,KPP Pratama Badung Utara,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0561517526160198,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_202,2022,Wajib Pajak 202,KPP Pratama Bitung,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_201,2022,Wajib Pajak 201,KPP Pratama Balikpapan Barat,Kanwil DJP Kalimantan Timur dan Utara,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_043,2022,Wajib Pajak 043,KPP Madya Denpasar,Kanwil DJP Bali,BADAN,0.0,0.0,0.0,0.0,0.0003175319641873,0.194837534478295,0.0,27725034619.0,18140369.0,0.5634444444444444,27725034619.0,3,3,X3Y3,Tinggi
+NPWP_200,2022,Wajib Pajak 200,KPP Pratama Denpasar Timur,Kanwil DJP Bali,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_044,2022,Wajib Pajak 044,KPP Madya Dua Semarang,Kanwil DJP Jawa Tengah I,BADAN,0.0,0.0,0.0,0.0,0.0,0.1735701055236556,0.22,51022188000.0,0.0,0.8427777777777777,51022188000.0,3,3,X3Y3,Tinggi
+NPWP_199,2022,Wajib Pajak 199,KPP Pratama Cibinong,Kanwil DJP Jawa Barat III,BADAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_198,2022,Wajib Pajak 198,KPP Pratama Medan Barat,Kanwil DJP Sumatera Utara I,BADAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_197,2022,Wajib Pajak 197,KPP Pratama Medan Belawan,Kanwil DJP Sumatera Utara I,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_196,2022,Wajib Pajak 196,KPP Pratama Jakarta Kembangan,Kanwil DJP Jakarta Barat,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_195,2022,Wajib Pajak 195,KPP Pratama Surabaya Sukomanunggal,Kanwil DJP Jawa Timur I,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.05,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_187,2022,Wajib Pajak 187,KPP Pratama Sidoarjo Barat,Kanwil DJP Jawa Timur II,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_186,2022,Wajib Pajak 186,KPP Pratama Jakarta Grogol Petamburan,Kanwil DJP Jakarta Barat,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_185,2022,Wajib Pajak 185,KPP Pratama Bandung Cibeunying,Kanwil DJP Jawa Barat I,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_184,2022,Wajib Pajak 184,KPP Pratama Mojokerto,Kanwil DJP Jawa Timur II,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_183,2022,Wajib Pajak 183,KPP Pratama Jakarta Cengkareng,Kanwil DJP Jakarta Barat,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_045,2022,Wajib Pajak 045,KPP Madya Dua Tangerang,Kanwil DJP Banten,BADAN,0.0,0.0,0.0,0.0,0.0,0.1253686122363744,0.22,0.0,0.0,0.9994444444444444,0.0,3,1,X3Y1,Sedang
+NPWP_182,2022,Wajib Pajak 182,KPP Pratama Ende,Kanwil DJP Nusa Tenggara,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_181,2022,Wajib Pajak 181,KPP Pratama Badung Utara,Kanwil DJP Bali,BADAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_046,2022,Wajib Pajak 046,KPP Pratama Tabanan,Kanwil DJP Bali,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_180,2022,Wajib Pajak 180,KPP Pratama Badung Utara,Kanwil DJP Bali,BADAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_179,2022,Wajib Pajak 179,KPP Pratama Batu,Kanwil DJP Jawa Timur III,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_047,2022,Wajib Pajak 047,KPP Pratama Denpasar Timur,Kanwil DJP Bali,BADAN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,397748675.4,0.0,0.0,397748675.4,1,2,X1Y2,Rendah
+NPWP_178,2022,Wajib Pajak 178,KPP Pratama Denpasar Timur,Kanwil DJP Bali,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_177,2022,Wajib Pajak 177,KPP Pratama Cibinong,Kanwil DJP Jawa Barat III,BADAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_048,2022,Wajib Pajak 048,KPP Madya Dua Tangerang,Kanwil DJP Banten,BADAN,0.0,0.0,0.0,0.0,0.0,0.0829400080662413,0.2015049040987514,0.0,0.0,0.986111111111111,0.0,3,1,X3Y1,Sedang
+NPWP_176,2022,Wajib Pajak 176,KPP Pratama Jakarta Menteng Dua,Kanwil DJP Jakarta Pusat,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_175,2022,Wajib Pajak 175,KPP Pratama Tabanan,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_174,2022,Wajib Pajak 174,KPP Pratama Badung Utara,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_173,2022,Wajib Pajak 173,KPP Pratama Denpasar Barat,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_049,2022,Wajib Pajak 049,KPP Pratama Makassar Utara,"Kanwil DJP Sulawesi Selatan, Barat, dan Tenggara",BADAN,0.0,0.0,0.0,0.0,0.0,0.1522527131245231,0.11,0.0,0.0,0.2467777777777777,0.0,2,1,X2Y1,Rendah
+NPWP_172,2022,Wajib Pajak 172,KPP Pratama Gianyar,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.1018072289156626,0.0,0.0,0.0033333333333333,0.0,1,1,X1Y1,Rendah
+NPWP_171,2022,Wajib Pajak 171,KPP Pratama Sidoarjo Barat,Kanwil DJP Jawa Timur II,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_050,2022,Wajib Pajak 050,KPP Pratama Bitung,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",BADAN,1.0,1.0,0.0,0.0,0.0,0.1220959058261453,0.1965742040537124,0.0,0.0,0.8266666666666667,0.0,3,1,X3Y1,Sedang
+NPWP_170,2022,Wajib Pajak 170,KPP Pratama Tigaraksa,Kanwil DJP Banten,BADAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_169,2022,Wajib Pajak 169,KPP Pratama Cikarang Selatan,Kanwil DJP Jawa Barat II,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_168,2022,Wajib Pajak 168,KPP Pratama Cibinong,Kanwil DJP Jawa Barat III,BADAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_167,2022,Wajib Pajak 167,KPP Pratama Ambon,"Kanwil DJP Papua, Papua Barat, dan Maluku",BADAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_166,2022,Wajib Pajak 166,KPP Pratama Denpasar Barat,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_165,2022,Wajib Pajak 165,KPP Pratama Tabanan,Kanwil DJP Bali,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_164,2022,Wajib Pajak 164,KPP Pratama Makassar Utara,"Kanwil DJP Sulawesi Selatan, Barat, dan Tenggara",OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_163,2022,Wajib Pajak 163,KPP Pratama Tangerang Barat,Kanwil DJP Banten,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_162,2022,Wajib Pajak 162,KPP Pratama Jakarta Mampang Prapatan,Kanwil DJP Jakarta Selatan I,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_161,2022,Wajib Pajak 161,KPP Pratama Indramayu,Kanwil DJP Jawa Barat II,BADAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_160,2022,Wajib Pajak 160,KPP Pratama Cikarang Selatan,Kanwil DJP Jawa Barat II,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_051,2022,Wajib Pajak 051,KPP Pratama Kupang,Kanwil DJP Nusa Tenggara,BADAN,0.0,0.0,0.0,0.0,0.0,0.2506975524109513,0.11,245407200.0,0.0,0.1051111111111111,245407200.0,2,2,X2Y2,Sedang
+NPWP_052,2022,Wajib Pajak 052,KPP Pratama Semarang Barat,Kanwil DJP Jawa Tengah I,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_150,2022,Wajib Pajak 150,KPP Pratama Manado,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_056,2022,Wajib Pajak 056,KPP Pratama Tegal,Kanwil DJP Jawa Tengah I,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_057,2022,Wajib Pajak 057,KPP Madya Dua Surabaya,Kanwil DJP Jawa Timur I,OP NON KARYAWAN,0.0,1.0,0.0,1.060636042402827,1.12672408116995,1.0,0.2056985046477165,0.0,7056138110.0,0.51,7056138110.0,3,3,X3Y3,Tinggi
+NPWP_058,2022,Wajib Pajak 058,KPP Pratama Jakarta Penjaringan,Kanwil DJP Jakarta Utara,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_149,2022,Wajib Pajak 149,KPP Pratama Bandung Tegallega,Kanwil DJP Jawa Barat I,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_148,2022,Wajib Pajak 148,KPP Pratama Badung Utara,Kanwil DJP Bali,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_059,2022,Wajib Pajak 059,KPP Pratama Manado,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_060,2022,Wajib Pajak 060,KPP Pratama Bekasi Utara,Kanwil DJP Jawa Barat III,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_147,2022,Wajib Pajak 147,KPP Pratama Jakarta Cakung,Kanwil DJP Jakarta Timur,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_061,2022,Wajib Pajak 061,KPP Pratama Manado,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_146,2022,Wajib Pajak 146,KPP Pratama Denpasar Timur,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_145,2022,Wajib Pajak 145,KPP Pratama Tangerang Barat,Kanwil DJP Banten,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_144,2022,Wajib Pajak 144,KPP Pratama Gianyar,Kanwil DJP Bali,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_143,2022,Wajib Pajak 143,KPP Pratama Malang Selatan,Kanwil DJP Jawa Timur III,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_142,2022,Wajib Pajak 142,KPP Pratama Kediri,Kanwil DJP Jawa Timur III,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_141,2022,Wajib Pajak 141,KPP Pratama Surabaya Sukomanunggal,Kanwil DJP Jawa Timur I,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_140,2022,Wajib Pajak 140,KPP Pratama Jakarta Kebayoran Lama,Kanwil DJP Jakarta Selatan II,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_065,2022,Wajib Pajak 065,KPP Pratama Tenggarong,Kanwil DJP Kalimantan Timur dan Utara,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_139,2022,Wajib Pajak 139,KPP Pratama Serpong,Kanwil DJP Banten,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_138,2022,Wajib Pajak 138,KPP Pratama Ruteng,Kanwil DJP Nusa Tenggara,BADAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_122,2022,Wajib Pajak 122,KPP Pratama Ciawi,Kanwil DJP Jawa Barat III,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.05,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_068,2022,Wajib Pajak 068,KPP Madya Surakarta,Kanwil DJP Jawa Tengah II,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.186619833494169,0.0,0.0,0.26,0.0,2,1,X2Y1,Rendah
+NPWP_069,2022,Wajib Pajak 069,KPP Pratama Manado,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_121,2022,Wajib Pajak 121,KPP Pratama Singaraja,Kanwil DJP Bali,BADAN,0.0,0.0,0.0,0.0,0.0,0.203389055958132,0.11,508341837.64,0.0,0.0851111111111111,508341837.64,2,2,X2Y2,Sedang
+NPWP_120,2022,Wajib Pajak 120,KPP Pratama Sukoharjo,Kanwil DJP Jawa Tengah II,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_119,2022,Wajib Pajak 119,KPP Pratama Singaraja,Kanwil DJP Bali,BADAN,0.0,0.0,0.0,0.0,1.2112128017471984e-07,0.3578336634396077,0.0,0.0,0.0,0.9312222222222224,0.0,3,1,X3Y1,Sedang
+NPWP_070,2022,Wajib Pajak 070,KPP Pratama Jakarta Pasar Rebo,Kanwil DJP Jakarta Timur,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_118,2022,Wajib Pajak 118,KPP Madya Denpasar,Kanwil DJP Bali,BADAN,1.0,0.0,0.0,0.0,0.0,0.2245371301648366,0.0,0.0,0.0,0.8033333333333333,0.0,3,1,X3Y1,Sedang
+NPWP_071,2022,Wajib Pajak 071,KPP Pratama Surabaya Sawahan,Kanwil DJP Jawa Timur I,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_117,2022,Wajib Pajak 117,KPP Pratama Badung Selatan,Kanwil DJP Bali,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_072,2022,Wajib Pajak 072,KPP Pratama Manado,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.193170545593285,0.0,0.0,0.2766666666666666,0.0,2,1,X2Y1,Rendah
+NPWP_073,2022,Wajib Pajak 073,KPP Pratama Denpasar Barat,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.615,0.0,3,1,X3Y1,Sedang
+NPWP_110,2022,Wajib Pajak 110,KPP Pratama Gianyar,Kanwil DJP Bali,OP NON KARYAWAN,0.0,0.0,0.0,0.5789775710291444,0.0,0.0,0.0,1331817855.56,0.0,0.2333333333333333,1331817855.56,2,3,X2Y3,Tinggi
+NPWP_106,2022,Wajib Pajak 106,KPP Pratama Gianyar,Kanwil DJP Bali,BADAN,0.0,0.0,0.0,0.0,0.0,0.3963954409151986,0.0,6069221490.428795,0.0,0.9312222222222224,6069221490.428795,3,3,X3Y3,Tinggi
+NPWP_105,2022,Wajib Pajak 105,KPP Pratama Lubuk Pakam,Kanwil DJP Sumatera Utara I,BADAN,0.0,0.0,0.0,0.0,0.0,0.4088666480513745,0.22,0.0,0.0,1.0,0.0,3,1,X3Y1,Sedang
+NPWP_104,2022,Wajib Pajak 104,KPP Madya Jakarta Pusat,Kanwil DJP Jakarta Pusat,BADAN,0.0,0.0,0.0,0.0,0.0,0.3528951083267446,0.0,179488520957.0,0.0,0.8862222222222222,179488520957.0,3,3,X3Y3,Tinggi
+NPWP_089,2022,Wajib Pajak 089,KPP Pratama Baubau,"Kanwil DJP Sulawesi Selatan, Barat, dan Tenggara",OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_074,2022,Wajib Pajak 074,KPP Pratama Tanjung Pinang,Kanwil DJP Kepulauan Riau,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.05,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_075,2022,Wajib Pajak 075,KPP Pratama Palembang Ilir Timur,Kanwil DJP Sumatera Selatan dan Kepulauan Bangka Belitung,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_076,2022,Wajib Pajak 076,KPP Pratama Manado,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,1.0,0.05,0.0,0.0,0.575,0.0,3,1,X3Y1,Sedang
+NPWP_077,2022,Wajib Pajak 077,KPP Pratama Denpasar Barat,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_081,2022,Wajib Pajak 081,KPP Pratama Manado,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.1436692014557029,0.0,0.0,0.0366666666666666,0.0,2,1,X2Y1,Rendah
+NPWP_080,2022,Wajib Pajak 080,KPP Pratama Singaraja,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,0.0,0.558408646037233,0.0,1.0,0.0,0.0,0.0,0.77,0.0,3,1,X3Y1,Sedang
+NPWP_079,2022,Wajib Pajak 079,KPP Pratama Badung Utara,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_078,2022,Wajib Pajak 078,KPP Pratama Tabanan,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.1266666666666666,0.0,2,1,X2Y1,Rendah
+NPWP_212,2022,Wajib Pajak 212,KPP Pratama Makassar Selatan,"Kanwil DJP Sulawesi Selatan, Barat, dan Tenggara",OP NON KARYAWAN,0.0,1.0,0.0,0.4517845227145665,0.0,0.0,0.0,0.0,0.0,0.1866666666666666,0.0,2,1,X2Y1,Rendah
+NPWP_001,2023,Wajib Pajak 001,KPP Wajib Pajak Besar Dua,Kanwil DJP Wajib Pajak Besar,BADAN,0.0,0.0,0.0,0.0,0.5908170038427633,0.6959106713266983,0.22,11074011916048.912,605668720508.0,0.9966666666666668,11074011916048.912,3,3,X3Y3,Tinggi
+NPWP_002,2023,Wajib Pajak 002,KPP Penanaman Modal Asing Empat,Kanwil DJP Jakarta Khusus,BADAN,0.0,0.0,0.0,0.0,0.0,0.1194814457403125,0.22,0.0,1314350024.0,0.9994444444444444,1314350024.0,3,3,X3Y3,Tinggi
+NPWP_003,2023,Wajib Pajak 003,KPP Wajib Pajak Besar Dua,Kanwil DJP Wajib Pajak Besar,BADAN,1.0,0.0,0.0,0.0,0.0,0.302540443820425,0.22,658494411232.9199,181206118393.0,0.985,658494411232.9199,3,3,X3Y3,Tinggi
+NPWP_004,2023,Wajib Pajak 004,KPP Pratama Palembang Ilir Barat,Kanwil DJP Sumatera Selatan dan Kepulauan Bangka Belitung,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_005,2023,Wajib Pajak 005,KPP Madya Medan,Kanwil DJP Sumatera Utara I,BADAN,0.0,0.0,0.0,0.0,1.004216205721735,0.532956479687819,0.22,0.0,186798217320.0,0.9866666666666668,186798217320.0,3,3,X3Y3,Tinggi
+NPWP_006,2023,Wajib Pajak 006,KPP Madya Denpasar,Kanwil DJP Bali,BADAN,1.0,0.0,0.0,0.0,0.0,0.3096917199839916,0.187874251801321,0.0,87960355.0,0.9933333333333332,87960355.0,3,2,X3Y2,Tinggi
+NPWP_007,2023,Wajib Pajak 007,KPP Pratama Medan Polonia,Kanwil DJP Sumatera Utara I,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_008,2023,Wajib Pajak 008,KPP Madya Tangerang,Kanwil DJP Banten,BADAN,1.0,0.0,0.0,0.0,1.3470453084904024,0.6637298877499078,0.22,0.0,826737822815.0,1.0,826737822815.0,3,3,X3Y3,Tinggi
+NPWP_009,2023,Wajib Pajak 009,KPP Madya Surabaya,Kanwil DJP Jawa Timur I,BADAN,0.0,0.0,0.0,0.2700665993308503,0.0,0.4115772568515141,0.1631264533345813,0.0,0.0,0.73,0.0,3,1,X3Y1,Sedang
+NPWP_010,2023,Wajib Pajak 010,KPP Madya Medan,Kanwil DJP Sumatera Utara I,BADAN,0.0,0.0,0.0,0.0,0.0,0.1389498683613595,0.11,0.0,0.0,0.2467777777777777,0.0,2,1,X2Y1,Rendah
+NPWP_011,2023,Wajib Pajak 011,KPP Pratama Medan Timur,Kanwil DJP Sumatera Utara I,BADAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_012,2023,Wajib Pajak 012,KPP Madya Dua Jakarta Barat,Kanwil DJP Jakarta Barat,BADAN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,26333408760.0,0.0,26333408760.0,1,3,X1Y3,Sedang
+NPWP_257,2023,Wajib Pajak 257,KPP Pratama Purwokerto,Kanwil DJP Jawa Tengah II,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_013,2023,Wajib Pajak 013,KPP Madya Bogar,Kanwil DJP Jawa Barat III,BADAN,1.0,0.0,0.0,0.0,1.4422115479318451,0.6041400481517883,0.22,0.0,294552218159.0,1.0,294552218159.0,3,3,X3Y3,Tinggi
+NPWP_014,2023,Wajib Pajak 014,KPP Madya Jakarta Barat,Kanwil DJP Jakarta Barat,BADAN,0.0,0.0,0.0,0.0,0.0,0.3871726937303015,0.1848529019194597,0.0,0.0,0.974,0.0,3,1,X3Y1,Sedang
+NPWP_015,2023,Wajib Pajak 015,KPP Madya Denpasar,Kanwil DJP Bali,BADAN,1.0,0.0,0.0,0.0,0.0,0.2758343377036819,0.22,0.0,278657035.0,0.9816666666666668,278657035.0,3,2,X3Y2,Tinggi
+NPWP_016,2023,Wajib Pajak 016,KPP Madya Dua Semarang,Kanwil DJP Jawa Tengah I,BADAN,1.0,0.0,0.0,0.0,1.0378679982995416,0.6326760066508201,0.22,0.0,171659878276.0,1.0,171659878276.0,3,3,X3Y3,Tinggi
+NPWP_017,2023,Wajib Pajak 017,KPP Madya Denpasar,Kanwil DJP Bali,BADAN,0.0,0.0,0.0,0.0,0.0043425240010473,0.3235930275926481,0.22,0.0,1237499997.0,1.0,1237499997.0,3,3,X3Y3,Tinggi
+NPWP_256,2023,Wajib Pajak 256,KPP Pratama Semarang Barat,Kanwil DJP Jawa Tengah I,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_018,2023,Wajib Pajak 018,KPP Pratama Tebing Tinggi,Kanwil DJP Sumatera Utara II,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,4201362323.0,0.0,4201362323.0,1,3,X1Y3,Sedang
+NPWP_019,2023,Wajib Pajak 019,KPP Madya Tangerang,Kanwil DJP Banten,BADAN,1.0,0.0,0.0,0.0,1.3579406115677404,0.6358468757510128,0.22,0.0,756406644580.0,1.0,756406644580.0,3,3,X3Y3,Tinggi
+NPWP_020,2023,Wajib Pajak 020,KPP Madya Dua Semarang,Kanwil DJP Jawa Tengah I,BADAN,0.0,0.0,0.0,0.0,0.0,0.1212444595165615,0.22,0.0,0.0,0.9994444444444444,0.0,3,1,X3Y1,Sedang
+NPWP_255,2023,Wajib Pajak 255,KPP Pratama Kotamobagu,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_021,2023,Wajib Pajak 021,KPP Pratama Lubuk Pakam,Kanwil DJP Sumatera Utara I,BADAN,1.0,0.0,0.0,0.0,0.0,0.4538883098666463,0.1555685606710056,0.0,0.0,0.9266666666666666,0.0,3,1,X3Y1,Sedang
+NPWP_254,2023,Wajib Pajak 254,KPP Pratama Gianyar,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_253,2023,Wajib Pajak 253,KPP Pratama Gianyar,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_252,2023,Wajib Pajak 252,KPP Pratama Gianyar,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_251,2023,Wajib Pajak 251,KPP Pratama Gianyar,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_250,2023,Wajib Pajak 250,KPP Pratama Gianyar,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_249,2023,Wajib Pajak 249,KPP Pratama Lubuk Pakam,Kanwil DJP Sumatera Utara I,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_248,2023,Wajib Pajak 248,KPP Pratama Yogyakarta,Kanwil DJP Daerah Istimewa Yogyakarta,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_022,2023,Wajib Pajak 022,KPP Madya Malang,Kanwil DJP Jawa Timur III,BADAN,1.0,0.0,0.0,0.1008497628101072,1.1834071494721343,0.6593341158866373,0.22,0.0,203531448613.0,0.99,203531448613.0,3,3,X3Y3,Tinggi
+NPWP_023,2023,Wajib Pajak 023,KPP Madya Tangerang,Kanwil DJP Banten,BADAN,0.0,0.0,0.0,0.0,0.0,0.2862346114914079,0.22,0.0,0.0,0.95,0.0,3,1,X3Y1,Sedang
+NPWP_247,2023,Wajib Pajak 247,KPP Pratama Kotamobagu,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_024,2023,Wajib Pajak 024,KPP Pratama Batam Selatan,Kanwil DJP Kepulauan Riau,BADAN,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.615,0.0,3,1,X3Y1,Sedang
+NPWP_025,2023,Wajib Pajak 025,KPP Pratama Tanjung Balai Karimun,Kanwil DJP Kepulauan Riau,BADAN,0.0,1.0,0.0,0.0,0.0,0.1759116395469395,0.11,0.0,0.0,0.1833333333333333,0.0,2,1,X2Y1,Rendah
+NPWP_026,2023,Wajib Pajak 026,KPP Pratama Singaraja,Kanwil DJP Bali,BADAN,1.0,0.0,0.0,0.0,0.0484238107554325,0.3137754503955534,0.1677515665925483,380825411.0,224110183.0,0.9966666666666668,380825411.0,3,2,X3Y2,Tinggi
+NPWP_027,2023,Wajib Pajak 027,KPP Madya Denpasar,Kanwil DJP Bali,BADAN,1.0,0.0,0.0,0.0,0.0003377672104791,0.2462816311382674,0.22,0.0,49904703.0,0.98,49904703.0,3,1,X3Y1,Sedang
+NPWP_246,2023,Wajib Pajak 246,KPP Pratama Batu,Kanwil DJP Jawa Timur III,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_028,2023,Wajib Pajak 028,KPP Pratama Singaraja,Kanwil DJP Bali,BADAN,0.0,0.0,0.0,0.0,0.0,0.1689478905733024,0.0,450588836.4000006,0.0,0.4951111111111111,450588836.4000006,2,2,X2Y2,Sedang
+NPWP_029,2023,Wajib Pajak 029,KPP Pratama Lubuk Pakam,Kanwil DJP Sumatera Utara I,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_245,2023,Wajib Pajak 245,KPP Pratama Jakarta Kemayoran,Kanwil DJP Jakarta Pusat,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.05,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_030,2023,Wajib Pajak 030,KPP Madya Dua Semarang,Kanwil DJP Jawa Tengah I,BADAN,1.0,0.0,0.0,0.0,0.743388739436879,0.4490008262809054,0.0,0.0,239479272031.0,1.0,239479272031.0,3,3,X3Y3,Tinggi
+NPWP_244,2023,Wajib Pajak 244,KPP Pratama Singaraja,Kanwil DJP Bali,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_243,2023,Wajib Pajak 243,KPP Pratama Semarang Barat,Kanwil DJP Jawa Tengah I,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.1760334267133404,0.0,0.0,0.1133333333333333,0.0,2,1,X2Y1,Rendah
+NPWP_031,2023,Wajib Pajak 031,KPP Pratama Binjai,Kanwil DJP Sumatera Utara I,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_242,2023,Wajib Pajak 242,KPP Pratama Singaraja,Kanwil DJP Bali,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_241,2023,Wajib Pajak 241,KPP Pratama Jakarta Cilandak,Kanwil DJP Jakarta Selatan II,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_240,2023,Wajib Pajak 240,KPP Pratama Gianyar,Kanwil DJP Bali,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_239,2023,Wajib Pajak 239,KPP Pratama Kotamobagu,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_238,2023,Wajib Pajak 238,KPP Pratama Singaraja,Kanwil DJP Bali,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_032,2023,Wajib Pajak 032,KPP Madya Denpasar,Kanwil DJP Bali,BADAN,1.0,0.0,0.0,0.0,0.8743164404147945,0.7288654330479413,0.22,0.0,408430212646.0,0.9166666666666666,408430212646.0,3,3,X3Y3,Tinggi
+NPWP_237,2023,Wajib Pajak 237,KPP Pratama Tabanan,Kanwil DJP Bali,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_236,2023,Wajib Pajak 236,KPP Pratama Sleman,Kanwil DJP Daerah Istimewa Yogyakarta,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_235,2023,Wajib Pajak 235,KPP Pratama Gianyar,Kanwil DJP Bali,BADAN,0.0,0.0,0.0,0.0,0.0,0.0504102061796342,0.1143957697642163,2883609414.132,0.0,0.2734444444444444,2883609414.132,2,3,X2Y3,Tinggi
+NPWP_234,2023,Wajib Pajak 234,KPP Pratama Kupang,Kanwil DJP Nusa Tenggara,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_233,2023,Wajib Pajak 233,KPP Pratama Balige,Kanwil DJP Sumatera Utara II,BADAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_232,2023,Wajib Pajak 232,KPP Pratama Jakarta Kebon Jeruk Satu,Kanwil DJP Jakarta Barat,BADAN,1.0,0.0,0.0,0.0,0.0,0.0402293382794105,0.0,12003554322.0,5629759250.0,0.8383333333333334,12003554322.0,3,3,X3Y3,Tinggi
+NPWP_231,2023,Wajib Pajak 231,KPP Pratama Denpasar Timur,Kanwil DJP Bali,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_230,2023,Wajib Pajak 230,KPP Pratama Bitung,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_033,2023,Wajib Pajak 033,KPP Madya Malang,Kanwil DJP Jawa Timur III,BADAN,1.0,0.0,0.0,0.0,1.0063344126751583,0.4359081217316159,0.0,4112170953.0,19680031993.0,0.9966666666666668,19680031993.0,3,3,X3Y3,Tinggi
+NPWP_229,2023,Wajib Pajak 229,KPP Pratama Tabanan,Kanwil DJP Bali,BADAN,1.0,0.0,0.0,0.0,0.0098423390120828,0.497450493397905,0.2093668854916338,1319657175891.0403,1031209612.0,0.9966666666666668,1319657175891.0403,3,3,X3Y3,Tinggi
+NPWP_034,2023,Wajib Pajak 034,KPP Pratama Tabanan,Kanwil DJP Bali,BADAN,0.0,0.0,0.0,0.0,0.0,0.3519352172994889,0.11,1489890619.1999998,0.0,0.4395555555555556,1489890619.1999998,2,3,X2Y3,Tinggi
+NPWP_035,2023,Wajib Pajak 035,KPP Pratama Tabanan,Kanwil DJP Bali,BADAN,1.0,0.0,0.0,0.0,117.53183153770811,0.0,0.0,0.0,2400000000.0,0.68,2400000000.0,3,3,X3Y3,Tinggi
+NPWP_228,2023,Wajib Pajak 228,KPP Pratama Kupang,Kanwil DJP Nusa Tenggara,BADAN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,160127920.8,0.0,0.0,160127920.8,1,2,X1Y2,Rendah
+NPWP_227,2023,Wajib Pajak 227,KPP Pratama Kotamobagu,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_226,2023,Wajib Pajak 226,KPP Pratama Jakarta Grogol Petamburan,Kanwil DJP Jakarta Barat,BADAN,0.0,1.0,0.0,0.0,0.0,0.6000000001783592,0.0,0.0,0.0,0.615,0.0,3,1,X3Y1,Sedang
+NPWP_225,2023,Wajib Pajak 225,KPP Pratama Semarang Barat,Kanwil DJP Jawa Tengah I,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_224,2023,Wajib Pajak 224,KPP Pratama Singaraja,Kanwil DJP Bali,BADAN,1.0,0.0,0.0,0.0,0.0,0.2648589422459033,0.1660993298974659,0.0,0.0,0.96,0.0,3,1,X3Y1,Sedang
+NPWP_036,2023,Wajib Pajak 036,KPP Madya Dua Semarang,Kanwil DJP Jawa Tengah I,BADAN,0.0,0.0,0.0,0.0,1.2298401713897824,0.6669871968610371,0.22,0.0,225088686854.0,0.9933333333333332,225088686854.0,3,3,X3Y3,Tinggi
+NPWP_223,2023,Wajib Pajak 223,KPP Pratama Kupang,Kanwil DJP Nusa Tenggara,BADAN,0.0,0.0,0.0,0.0,0.0,0.6271235681686056,0.1958140541400561,265753645.0,0.0,0.9666666666666668,265753645.0,3,2,X3Y2,Tinggi
+NPWP_222,2023,Wajib Pajak 222,KPP Pratama Tanjung Pinang,Kanwil DJP Kepulauan Riau,BADAN,0.0,0.0,0.0,0.0656482798011836,0.0,0.2128020389880952,0.11,99060000.0,0.0,0.0533333333333333,99060000.0,2,2,X2Y2,Sedang
+NPWP_221,2023,Wajib Pajak 221,KPP Pratama Kotamobagu,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",BADAN,0.0,0.0,0.0,0.0,0.0,0.3959769576554239,0.22,0.0,13514714.0,1.0,13514714.0,3,1,X3Y1,Sedang
+NPWP_220,2023,Wajib Pajak 220,KPP Pratama Jakarta Kebayoran Baru Dua,Kanwil DJP Jakarta Selatan II,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_219,2023,Wajib Pajak 219,KPP Pratama Manado,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_218,2023,Wajib Pajak 218,KPP Pratama Denpasar Barat,Kanwil DJP Bali,BADAN,1.0,0.0,0.0,0.0,0.0,0.2142548649029155,0.0,18540175761.0,0.0,0.8066666666666666,18540175761.0,3,3,X3Y3,Tinggi
+NPWP_039,2023,Wajib Pajak 039,KPP Madya Denpasar,Kanwil DJP Bali,BADAN,1.0,0.0,0.0,0.0,0.2071865136765042,0.4182623422768652,0.22,0.0,287992333657.0,1.0,287992333657.0,3,3,X3Y3,Tinggi
+NPWP_217,2023,Wajib Pajak 217,KPP Madya Dua Jakarta Barat,Kanwil DJP Jakarta Barat,BADAN,1.0,0.0,0.0,0.0,0.0,0.3765848095935566,0.0,0.0,0.0,0.9866666666666668,0.0,3,1,X3Y1,Sedang
+NPWP_216,2023,Wajib Pajak 216,KPP Pratama Singaraja,Kanwil DJP Bali,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_215,2023,Wajib Pajak 215,KPP Pratama Kotamobagu,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_214,2023,Wajib Pajak 214,KPP Pratama Singaraja,Kanwil DJP Bali,BADAN,0.0,0.0,0.0,0.0,0.0,0.1842225928889637,0.11,571099846.8000001,0.0,0.0751111111111111,571099846.8000001,2,2,X2Y2,Sedang
+NPWP_040,2023,Wajib Pajak 040,KPP Pratama Tegal,Kanwil DJP Jawa Tengah I,BADAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_213,2023,Wajib Pajak 213,KPP Pratama Makassar Utara,"Kanwil DJP Sulawesi Selatan, Barat, dan Tenggara",BADAN,0.0,0.0,0.0,0.0,0.0,0.2889971393517034,0.11,0.0,0.0,0.1517777777777777,0.0,2,1,X2Y1,Rendah
+NPWP_041,2023,Wajib Pajak 041,KPP Pratama Semarang Gayamsari,Kanwil DJP Jawa Tengah I,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_042,2023,Wajib Pajak 042,KPP Pratama Bitung,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",BADAN,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,547648648.0,0.56,547648648.0,3,2,X3Y2,Tinggi
+NPWP_211,2023,Wajib Pajak 211,KPP Pratama Serang Timur,Kanwil DJP Banten,BADAN,0.0,0.0,0.0,0.0,0.0020760655598981,0.0660460415571233,0.22,10186153640.0,0.0,1.0,10186153640.0,3,3,X3Y3,Tinggi
+NPWP_210,2023,Wajib Pajak 210,KPP Pratama Kotamobagu,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_209,2023,Wajib Pajak 209,KPP Pratama Singaraja,Kanwil DJP Bali,BADAN,0.0,0.0,0.0,0.0,0.0329238530471278,0.6262775230743327,0.0,0.0,1481853845.0,0.945,1481853845.0,3,3,X3Y3,Tinggi
+NPWP_208,2023,Wajib Pajak 208,KPP Pratama Kotamobagu,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_207,2023,Wajib Pajak 207,KPP Pratama Sidoarjo Utara,Kanwil DJP Jawa Timur II,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_206,2023,Wajib Pajak 206,KPP Pratama Bitung,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",BADAN,0.0,0.0,0.0,0.0,0.0,0.110639344262295,0.11,8400000.0,0.0,0.2601111111111111,8400000.0,2,1,X2Y1,Rendah
+NPWP_205,2023,Wajib Pajak 205,KPP Pratama Singaraja,Kanwil DJP Bali,BADAN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,153608400.0,0.0,0.0,153608400.0,1,2,X1Y2,Rendah
+NPWP_204,2023,Wajib Pajak 204,KPP Pratama Manado,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",BADAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_203,2023,Wajib Pajak 203,KPP Pratama Badung Utara,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.10155664642811,0.0,0.0,0.0033333333333333,0.0,1,1,X1Y1,Rendah
+NPWP_202,2023,Wajib Pajak 202,KPP Pratama Bitung,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_201,2023,Wajib Pajak 201,KPP Pratama Balikpapan Barat,Kanwil DJP Kalimantan Timur dan Utara,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_043,2023,Wajib Pajak 043,KPP Madya Denpasar,Kanwil DJP Bali,BADAN,1.0,0.0,0.0,0.0,0.0105804945637362,0.3228941586804404,0.0,31093901853.0,426012551.0,0.94,31093901853.0,3,3,X3Y3,Tinggi
+NPWP_200,2023,Wajib Pajak 200,KPP Pratama Denpasar Timur,Kanwil DJP Bali,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_044,2023,Wajib Pajak 044,KPP Madya Dua Semarang,Kanwil DJP Jawa Tengah I,BADAN,0.0,0.0,0.0,0.0,0.0,0.2050637225339629,0.22,0.0,0.0,0.9394444444444444,0.0,3,1,X3Y1,Sedang
+NPWP_199,2023,Wajib Pajak 199,KPP Pratama Cibinong,Kanwil DJP Jawa Barat III,BADAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_198,2023,Wajib Pajak 198,KPP Pratama Medan Barat,Kanwil DJP Sumatera Utara I,BADAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_197,2023,Wajib Pajak 197,KPP Pratama Medan Belawan,Kanwil DJP Sumatera Utara I,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_196,2023,Wajib Pajak 196,KPP Pratama Jakarta Kembangan,Kanwil DJP Jakarta Barat,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_195,2023,Wajib Pajak 195,KPP Pratama Surabaya Sukomanunggal,Kanwil DJP Jawa Timur I,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.05,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_194,2023,Wajib Pajak 194,KPP Pratama Pematang Siantar,Kanwil DJP Sumatera Utara II,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_193,2023,Wajib Pajak 193,KPP Pratama Bandung Tegallega,Kanwil DJP Jawa Barat I,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_192,2023,Wajib Pajak 192,KPP Pratama Jakarta Cengkareng,Kanwil DJP Jakarta Barat,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_191,2023,Wajib Pajak 191,KPP Pratama Tabanan,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_190,2023,Wajib Pajak 190,KPP Pratama Jakarta Kebayoran Baru Dua,Kanwil DJP Jakarta Selatan II,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_189,2023,Wajib Pajak 189,KPP Pratama Surabaya Karangpilang,Kanwil DJP Jawa Timur I,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_188,2023,Wajib Pajak 188,KPP Pratama Pondok Aren,Kanwil DJP Banten,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_187,2023,Wajib Pajak 187,KPP Pratama Sidoarjo Barat,Kanwil DJP Jawa Timur II,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_186,2023,Wajib Pajak 186,KPP Pratama Jakarta Grogol Petamburan,Kanwil DJP Jakarta Barat,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_185,2023,Wajib Pajak 185,KPP Pratama Bandung Cibeunying,Kanwil DJP Jawa Barat I,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_184,2023,Wajib Pajak 184,KPP Pratama Mojokerto,Kanwil DJP Jawa Timur II,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_183,2023,Wajib Pajak 183,KPP Pratama Jakarta Cengkareng,Kanwil DJP Jakarta Barat,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_045,2023,Wajib Pajak 045,KPP Madya Dua Tangerang,Kanwil DJP Banten,BADAN,0.0,0.0,0.0,0.0,0.0,0.1218888832684391,0.22,0.0,0.0,0.9994444444444444,0.0,3,1,X3Y1,Sedang
+NPWP_182,2023,Wajib Pajak 182,KPP Pratama Ende,Kanwil DJP Nusa Tenggara,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_181,2023,Wajib Pajak 181,KPP Pratama Badung Utara,Kanwil DJP Bali,BADAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_046,2023,Wajib Pajak 046,KPP Pratama Tabanan,Kanwil DJP Bali,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_180,2023,Wajib Pajak 180,KPP Pratama Badung Utara,Kanwil DJP Bali,BADAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_179,2023,Wajib Pajak 179,KPP Pratama Batu,Kanwil DJP Jawa Timur III,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_047,2023,Wajib Pajak 047,KPP Pratama Denpasar Timur,Kanwil DJP Bali,BADAN,0.0,0.0,0.0,0.0,0.0,3.4153240149178083,0.0,303950397.0,0.0,0.7872222222222223,303950397.0,3,2,X3Y2,Tinggi
+NPWP_178,2023,Wajib Pajak 178,KPP Pratama Denpasar Timur,Kanwil DJP Bali,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_177,2023,Wajib Pajak 177,KPP Pratama Cibinong,Kanwil DJP Jawa Barat III,BADAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_048,2023,Wajib Pajak 048,KPP Madya Dua Tangerang,Kanwil DJP Banten,BADAN,0.0,0.0,0.0,0.0,0.0,0.0871289101340264,0.2029949013544486,0.0,0.0,0.986111111111111,0.0,3,1,X3Y1,Sedang
+NPWP_176,2023,Wajib Pajak 176,KPP Pratama Jakarta Menteng Dua,Kanwil DJP Jakarta Pusat,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.05,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_175,2023,Wajib Pajak 175,KPP Pratama Tabanan,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_174,2023,Wajib Pajak 174,KPP Pratama Badung Utara,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_173,2023,Wajib Pajak 173,KPP Pratama Denpasar Barat,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_049,2023,Wajib Pajak 049,KPP Pratama Makassar Utara,"Kanwil DJP Sulawesi Selatan, Barat, dan Tenggara",BADAN,0.0,0.0,0.0,0.0,0.0,0.2052833532120737,0.11,0.0,0.0,0.1017777777777777,0.0,2,1,X2Y1,Rendah
+NPWP_172,2023,Wajib Pajak 172,KPP Pratama Gianyar,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.1520537124802527,0.0,0.0,0.05,0.0,2,1,X2Y1,Rendah
+NPWP_171,2023,Wajib Pajak 171,KPP Pratama Sidoarjo Barat,Kanwil DJP Jawa Timur II,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_050,2023,Wajib Pajak 050,KPP Pratama Bitung,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",BADAN,1.0,1.0,0.0,0.0,0.0,0.1232882741969486,0.1921424350642386,0.0,102912.0,0.83,102912.0,3,1,X3Y1,Sedang
+NPWP_170,2023,Wajib Pajak 170,KPP Pratama Tigaraksa,Kanwil DJP Banten,BADAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_169,2023,Wajib Pajak 169,KPP Pratama Cikarang Selatan,Kanwil DJP Jawa Barat II,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.05,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_168,2023,Wajib Pajak 168,KPP Pratama Cibinong,Kanwil DJP Jawa Barat III,BADAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_167,2023,Wajib Pajak 167,KPP Pratama Ambon,"Kanwil DJP Papua, Papua Barat, dan Maluku",BADAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_166,2023,Wajib Pajak 166,KPP Pratama Denpasar Barat,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_165,2023,Wajib Pajak 165,KPP Pratama Tabanan,Kanwil DJP Bali,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_164,2023,Wajib Pajak 164,KPP Pratama Makassar Utara,"Kanwil DJP Sulawesi Selatan, Barat, dan Tenggara",OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_163,2023,Wajib Pajak 163,KPP Pratama Tangerang Barat,Kanwil DJP Banten,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_162,2023,Wajib Pajak 162,KPP Pratama Jakarta Mampang Prapatan,Kanwil DJP Jakarta Selatan I,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_161,2023,Wajib Pajak 161,KPP Pratama Indramayu,Kanwil DJP Jawa Barat II,BADAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_160,2023,Wajib Pajak 160,KPP Pratama Cikarang Selatan,Kanwil DJP Jawa Barat II,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_051,2023,Wajib Pajak 051,KPP Pratama Kupang,Kanwil DJP Nusa Tenggara,BADAN,0.0,0.0,0.0,0.0,0.0,0.6324194850120206,0.1995560803950546,598459200.0,0.0,0.9666666666666668,598459200.0,3,2,X3Y2,Tinggi
+NPWP_052,2023,Wajib Pajak 052,KPP Pratama Semarang Barat,Kanwil DJP Jawa Tengah I,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_159,2023,Wajib Pajak 159,KPP Pratama Gianyar,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_158,2023,Wajib Pajak 158,KPP Pratama Singosari,Kanwil DJP Jawa Timur III,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_157,2023,Wajib Pajak 157,KPP Pratama Jakarta Cilandak,Kanwil DJP Jakarta Selatan II,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_156,2023,Wajib Pajak 156,KPP Pratama Maumere,Kanwil DJP Nusa Tenggara,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_155,2023,Wajib Pajak 155,KPP Pratama Denpasar Timur,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_154,2023,Wajib Pajak 154,KPP Pratama Makassar Utara,"Kanwil DJP Sulawesi Selatan, Barat, dan Tenggara",OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_153,2023,Wajib Pajak 153,KPP Pratama Tapaktuan,Kanwil DJP Aceh,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_152,2023,Wajib Pajak 152,KPP Pratama Tegal,Kanwil DJP Jawa Tengah I,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_151,2023,Wajib Pajak 151,KPP Pratama Denpasar Barat,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_150,2023,Wajib Pajak 150,KPP Pratama Manado,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_056,2023,Wajib Pajak 056,KPP Pratama Tegal,Kanwil DJP Jawa Tengah I,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_057,2023,Wajib Pajak 057,KPP Madya Dua Surabaya,Kanwil DJP Jawa Timur I,OP NON KARYAWAN,0.0,1.0,0.0,0.6299212598425197,1.079499529989439,1.0,0.2136967828934694,0.0,5374205333.0,0.4833333333333333,5374205333.0,2,3,X2Y3,Tinggi
+NPWP_058,2023,Wajib Pajak 058,KPP Pratama Jakarta Penjaringan,Kanwil DJP Jakarta Utara,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_149,2023,Wajib Pajak 149,KPP Pratama Bandung Tegallega,Kanwil DJP Jawa Barat I,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_148,2023,Wajib Pajak 148,KPP Pratama Badung Utara,Kanwil DJP Bali,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_059,2023,Wajib Pajak 059,KPP Pratama Manado,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_060,2023,Wajib Pajak 060,KPP Pratama Bekasi Utara,Kanwil DJP Jawa Barat III,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_147,2023,Wajib Pajak 147,KPP Pratama Jakarta Cakung,Kanwil DJP Jakarta Timur,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_061,2023,Wajib Pajak 061,KPP Pratama Manado,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_146,2023,Wajib Pajak 146,KPP Pratama Denpasar Timur,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.05,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_145,2023,Wajib Pajak 145,KPP Pratama Tangerang Barat,Kanwil DJP Banten,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_144,2023,Wajib Pajak 144,KPP Pratama Gianyar,Kanwil DJP Bali,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_143,2023,Wajib Pajak 143,KPP Pratama Malang Selatan,Kanwil DJP Jawa Timur III,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_142,2023,Wajib Pajak 142,KPP Pratama Kediri,Kanwil DJP Jawa Timur III,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_141,2023,Wajib Pajak 141,KPP Pratama Surabaya Sukomanunggal,Kanwil DJP Jawa Timur I,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_140,2023,Wajib Pajak 140,KPP Pratama Jakarta Kebayoran Lama,Kanwil DJP Jakarta Selatan II,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_065,2023,Wajib Pajak 065,KPP Pratama Tenggarong,Kanwil DJP Kalimantan Timur dan Utara,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_139,2023,Wajib Pajak 139,KPP Pratama Serpong,Kanwil DJP Banten,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_138,2023,Wajib Pajak 138,KPP Pratama Ruteng,Kanwil DJP Nusa Tenggara,BADAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_137,2023,Wajib Pajak 137,KPP Pratama Surabaya Mulyorejo,Kanwil DJP Jawa Timur I,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_136,2023,Wajib Pajak 136,KPP Pratama Singaraja,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_135,2023,Wajib Pajak 135,KPP Pratama Tabanan,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_134,2023,Wajib Pajak 134,KPP Pratama Temanggung,Kanwil DJP Jawa Tengah II,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_133,2023,Wajib Pajak 133,KPP Pratama Pekanbaru Senapelan,Kanwil DJP Riau,BADAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_131,2023,Wajib Pajak 131,KPP Pratama Kotamobagu,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_130,2023,Wajib Pajak 130,KPP Pratama Metro,Kanwil DJP Bengkulu dan Lampung,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_129,2023,Wajib Pajak 129,KPP Pratama Bantaeng,"Kanwil DJP Sulawesi Selatan, Barat, dan Tenggara",OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_128,2023,Wajib Pajak 128,KPP Pratama Kotamobagu,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_127,2023,Wajib Pajak 127,KPP Pratama Jakarta Cengkareng,Kanwil DJP Jakarta Barat,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_126,2023,Wajib Pajak 126,KPP Pratama Cimahi,Kanwil DJP Jawa Barat I,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_125,2023,Wajib Pajak 125,KPP Pratama Badung Utara,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_124,2023,Wajib Pajak 124,KPP Pratama Metro,Kanwil DJP Bengkulu dan Lampung,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_123,2023,Wajib Pajak 123,KPP Pratama Sidoarjo Utara,Kanwil DJP Jawa Timur II,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_122,2023,Wajib Pajak 122,KPP Pratama Ciawi,Kanwil DJP Jawa Barat III,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.05,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_068,2023,Wajib Pajak 068,KPP Madya Surakarta,Kanwil DJP Jawa Tengah II,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_069,2023,Wajib Pajak 069,KPP Pratama Manado,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_121,2023,Wajib Pajak 121,KPP Pratama Singaraja,Kanwil DJP Bali,BADAN,0.0,0.0,0.0,0.0,0.0,0.378594743823745,0.11,396532170.0,0.0,0.4778888888888889,396532170.0,2,2,X2Y2,Sedang
+NPWP_120,2023,Wajib Pajak 120,KPP Pratama Sukoharjo,Kanwil DJP Jawa Tengah II,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_119,2023,Wajib Pajak 119,KPP Pratama Singaraja,Kanwil DJP Bali,BADAN,0.0,0.0,0.0,0.0,0.0,0.3408664308694779,0.0,0.0,0.0,0.882888888888889,0.0,3,1,X3Y1,Sedang
+NPWP_070,2023,Wajib Pajak 070,KPP Pratama Jakarta Pasar Rebo,Kanwil DJP Jakarta Timur,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_118,2023,Wajib Pajak 118,KPP Madya Denpasar,Kanwil DJP Bali,BADAN,1.0,0.0,0.0,0.0,0.0,0.3188376604368585,0.0,0.0,0.0,0.9,0.0,3,1,X3Y1,Sedang
+NPWP_071,2023,Wajib Pajak 071,KPP Pratama Surabaya Sawahan,Kanwil DJP Jawa Timur I,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_117,2023,Wajib Pajak 117,KPP Pratama Badung Selatan,Kanwil DJP Bali,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_072,2023,Wajib Pajak 072,KPP Pratama Manado,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.1976563299559922,0.0,0.0,0.2766666666666666,0.0,2,1,X2Y1,Rendah
+NPWP_073,2023,Wajib Pajak 073,KPP Pratama Denpasar Barat,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.615,0.0,3,1,X3Y1,Sedang
+NPWP_110,2023,Wajib Pajak 110,KPP Pratama Gianyar,Kanwil DJP Bali,OP NON KARYAWAN,0.0,0.0,0.0,0.2258998364389856,0.0,0.0,0.0,2318309323.2,0.0,0.23,2318309323.2,2,3,X2Y3,Tinggi
+NPWP_106,2023,Wajib Pajak 106,KPP Pratama Gianyar,Kanwil DJP Bali,BADAN,1.0,0.0,0.0,0.0,0.0,0.2166356794557506,0.1133563576609247,21835702918.663586,0.0,0.6,21835702918.663586,3,3,X3Y3,Tinggi
+NPWP_105,2023,Wajib Pajak 105,KPP Pratama Lubuk Pakam,Kanwil DJP Sumatera Utara I,BADAN,1.0,0.0,0.0,0.0,0.0,0.4619191455936168,0.22,0.0,0.0,0.975,0.0,3,1,X3Y1,Sedang
+NPWP_104,2023,Wajib Pajak 104,KPP Madya Jakarta Pusat,Kanwil DJP Jakarta Pusat,BADAN,0.0,0.0,0.0,0.0,0.0,0.3573653278525804,0.0,191980664473.0,0.0,0.9312222222222224,191980664473.0,3,3,X3Y3,Tinggi
+NPWP_089,2023,Wajib Pajak 089,KPP Pratama Baubau,"Kanwil DJP Sulawesi Selatan, Barat, dan Tenggara",OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_074,2023,Wajib Pajak 074,KPP Pratama Tanjung Pinang,Kanwil DJP Kepulauan Riau,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.05,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_075,2023,Wajib Pajak 075,KPP Pratama Palembang Ilir Timur,Kanwil DJP Sumatera Selatan dan Kepulauan Bangka Belitung,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_076,2023,Wajib Pajak 076,KPP Pratama Manado,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",OP NON KARYAWAN,1.0,1.0,0.0,0.0,0.0,1.0,0.05,0.0,0.0,0.77,0.0,3,1,X3Y1,Sedang
+NPWP_077,2023,Wajib Pajak 077,KPP Pratama Denpasar Barat,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_081,2023,Wajib Pajak 081,KPP Pratama Manado,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",OP NON KARYAWAN,0.0,1.0,0.0,4.161827956989248,0.0,0.0,0.0,0.0,0.0,0.1866666666666666,0.0,2,1,X2Y1,Rendah
+NPWP_080,2023,Wajib Pajak 080,KPP Pratama Singaraja,Kanwil DJP Bali,OP NON KARYAWAN,1.0,0.0,0.0,0.5061359857473362,0.0,1.0,0.0,0.0,0.0,0.77,0.0,3,1,X3Y1,Sedang
+NPWP_079,2023,Wajib Pajak 079,KPP Pratama Badung Utara,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_078,2023,Wajib Pajak 078,KPP Pratama Tabanan,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_212,2023,Wajib Pajak 212,KPP Pratama Makassar Selatan,"Kanwil DJP Sulawesi Selatan, Barat, dan Tenggara",OP NON KARYAWAN,0.0,1.0,0.0,0.3353596409886549,0.0,0.0,0.0,0.0,0.0,0.1866666666666666,0.0,2,1,X2Y1,Rendah
+NPWP_132,2023,Wajib Pajak 132,KPP Pratama Manado,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",BADAN,0.0,0.0,0.0,0.4161827956989247,0.0,0.0,0.0,0.0,0.0,0.2333333333333333,0.0,2,1,X2Y1,Rendah
+NPWP_001,2024,Wajib Pajak 001,KPP Wajib Pajak Besar Dua,Kanwil DJP Wajib Pajak Besar,BADAN,0.0,0.0,0.0,0.0,0.6193956000374282,0.6941665136770743,0.22,0.0,546210240552.0,0.9966666666666668,546210240552.0,3,3,X3Y3,Tinggi
+NPWP_002,2024,Wajib Pajak 002,KPP Penanaman Modal Asing Empat,Kanwil DJP Jakarta Khusus,BADAN,0.0,0.0,0.0,0.0,0.0,0.0855608941675133,0.22,0.0,3481686436.0,0.9994444444444444,3481686436.0,3,3,X3Y3,Tinggi
+NPWP_003,2024,Wajib Pajak 003,KPP Wajib Pajak Besar Dua,Kanwil DJP Wajib Pajak Besar,BADAN,1.0,0.0,0.0,0.0,1.0192816618459148,0.5485941974186442,0.22,0.0,2455363124521.0,1.0,2455363124521.0,3,3,X3Y3,Tinggi
+NPWP_004,2024,Wajib Pajak 004,KPP Pratama Palembang Ilir Barat,Kanwil DJP Sumatera Selatan dan Kepulauan Bangka Belitung,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_269,2024,Wajib Pajak 269,KPP Pratama Soreang,Kanwil DJP Jawa Barat I,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_268,2024,Wajib Pajak 268,KPP Pratama Tasikmalaya,Kanwil DJP Jawa Barat I,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.05,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_005,2024,Wajib Pajak 005,KPP Madya Medan,Kanwil DJP Sumatera Utara I,BADAN,0.0,0.0,0.0,0.0,1.2300932625924703,0.539432293213364,0.22,0.0,206576496788.0,0.9933333333333332,206576496788.0,3,3,X3Y3,Tinggi
+NPWP_267,2024,Wajib Pajak 267,KPP Pratama Denpasar Timur,Kanwil DJP Bali,BADAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_006,2024,Wajib Pajak 006,KPP Madya Denpasar,Kanwil DJP Bali,BADAN,1.0,0.0,0.0,0.0,0.0044928639996015,0.2438086437649589,0.1887815099378954,0.0,74337818.0,0.9916666666666668,74337818.0,3,2,X3Y2,Tinggi
+NPWP_266,2024,Wajib Pajak 266,KPP Pratama Bandung Tegallega,Kanwil DJP Jawa Barat I,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.05,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_007,2024,Wajib Pajak 007,KPP Pratama Medan Polonia,Kanwil DJP Sumatera Utara I,BADAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_265,2024,Wajib Pajak 265,KPP Pratama Semarang Gayamsari,Kanwil DJP Jawa Tengah I,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_264,2024,Wajib Pajak 264,KPP Pratama·Tulungagung,Kanwil DJP Jawa Timur III,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_008,2024,Wajib Pajak 008,KPP Madya Tangerang,Kanwil DJP Banten,BADAN,1.0,0.0,0.0,0.0,1.7486095480693478,0.6517978914660674,0.22,0.0,872282859560.0,1.0,872282859560.0,3,3,X3Y3,Tinggi
+NPWP_009,2024,Wajib Pajak 009,KPP Madya Surabaya,Kanwil DJP Jawa Timur I,BADAN,0.0,0.0,0.0,0.1961939556104421,0.0,0.3568704598091933,0.165310400705693,0.0,0.0,0.7366666666666667,0.0,3,1,X3Y1,Sedang
+NPWP_263,2024,Wajib Pajak 263,KPP Pratama·Tulungagung,Kanwil DJP Jawa Timur III,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_262,2024,Wajib Pajak 262,KPP Pratama Lubuk Linggau,Kanwil DJP Sumatera Selatan dan Kepulauan Bangka Belitung,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_010,2024,Wajib Pajak 010,KPP Madya Medan,Kanwil DJP Sumatera Utara I,BADAN,0.0,0.0,0.0,0.0,0.0,0.092,0.1389819792707045,0.0,0.0,0.5056666666666666,0.0,3,1,X3Y1,Sedang
+NPWP_011,2024,Wajib Pajak 011,KPP Pratama Medan Timur,Kanwil DJP Sumatera Utara I,BADAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_261,2024,Wajib Pajak 261,KPP Pratama Palembang Ilir Barat,Kanwil DJP Sumatera Selatan dan Kepulauan Bangka Belitung,BADAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_260,2024,Wajib Pajak 260,KPP Pratama Cibinong,Kanwil DJP Jawa Barat III,BADAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_259,2024,Wajib Pajak 259,KPP Pratama Garut,Kanwil DJP Jawa Barat I,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.05,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_258,2024,Wajib Pajak 258,KPP Pratama Badung Utara,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_012,2024,Wajib Pajak 012,KPP Madya Dua Jakarta Barat,Kanwil DJP Jakarta Barat,BADAN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,32072566080.0,0.0,32072566080.0,1,3,X1Y3,Sedang
+NPWP_257,2024,Wajib Pajak 257,KPP Pratama Purwokerto,Kanwil DJP Jawa Tengah II,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_013,2024,Wajib Pajak 013,KPP Madya Bogar,Kanwil DJP Jawa Barat III,BADAN,1.0,0.0,0.0,0.0,1.895659383231548,0.5631361372438987,0.22,0.0,366868369333.0,1.0,366868369333.0,3,3,X3Y3,Tinggi
+NPWP_014,2024,Wajib Pajak 014,KPP Madya Jakarta Barat,Kanwil DJP Jakarta Barat,BADAN,0.0,0.0,0.0,0.0,0.0,0.4266745858437041,0.1811228678673386,0.0,0.0,0.9573333333333331,0.0,3,1,X3Y1,Sedang
+NPWP_015,2024,Wajib Pajak 015,KPP Madya Denpasar,Kanwil DJP Bali,BADAN,1.0,0.0,0.0,0.0,0.0,0.2844143216557451,0.22,0.0,0.0,0.9783333333333334,0.0,3,1,X3Y1,Sedang
+NPWP_016,2024,Wajib Pajak 016,KPP Madya Dua Semarang,Kanwil DJP Jawa Tengah I,BADAN,1.0,0.0,0.0,0.0,1.1852254516813947,0.6077986253759858,0.22,0.0,178261383736.0,1.0,178261383736.0,3,3,X3Y3,Tinggi
+NPWP_017,2024,Wajib Pajak 017,KPP Madya Denpasar,Kanwil DJP Bali,BADAN,0.0,0.0,0.0,0.0,0.004766832516151,0.3028738374232826,0.22,0.0,1204737053.0,0.9866666666666668,1204737053.0,3,3,X3Y3,Tinggi
+NPWP_256,2024,Wajib Pajak 256,KPP Pratama Semarang Barat,Kanwil DJP Jawa Tengah I,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_018,2024,Wajib Pajak 018,KPP Pratama Tebing Tinggi,Kanwil DJP Sumatera Utara II,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,4536964045.0,0.0,4536964045.0,1,3,X1Y3,Sedang
+NPWP_019,2024,Wajib Pajak 019,KPP Madya Tangerang,Kanwil DJP Banten,BADAN,1.0,0.0,0.0,0.0,1.661601824807342,0.6258517784469558,0.22,0.0,1008316265578.0,1.0,1008316265578.0,3,3,X3Y3,Tinggi
+NPWP_020,2024,Wajib Pajak 020,KPP Madya Dua Semarang,Kanwil DJP Jawa Tengah I,BADAN,0.0,0.0,0.0,0.0,0.0,0.1034064079418969,0.22,0.0,0.0,0.9994444444444444,0.0,3,1,X3Y1,Sedang
+NPWP_255,2024,Wajib Pajak 255,KPP Pratama Kotamobagu,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_021,2024,Wajib Pajak 021,KPP Pratama Lubuk Pakam,Kanwil DJP Sumatera Utara I,BADAN,1.0,0.0,0.0,0.0,0.0,0.4246902426867431,0.1471154677603598,0.0,0.0,0.9433333333333334,0.0,3,1,X3Y1,Sedang
+NPWP_254,2024,Wajib Pajak 254,KPP Pratama Gianyar,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_253,2024,Wajib Pajak 253,KPP Pratama Gianyar,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_252,2024,Wajib Pajak 252,KPP Pratama Gianyar,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_251,2024,Wajib Pajak 251,KPP Pratama Gianyar,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_250,2024,Wajib Pajak 250,KPP Pratama Gianyar,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_249,2024,Wajib Pajak 249,KPP Pratama Lubuk Pakam,Kanwil DJP Sumatera Utara I,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_248,2024,Wajib Pajak 248,KPP Pratama Yogyakarta,Kanwil DJP Daerah Istimewa Yogyakarta,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_022,2024,Wajib Pajak 022,KPP Madya Malang,Kanwil DJP Jawa Timur III,BADAN,1.0,0.0,0.0,0.14117744826653,1.4703131401410257,0.6395859481216507,0.22,0.0,184815698845.0,0.99,184815698845.0,3,3,X3Y3,Tinggi
+NPWP_023,2024,Wajib Pajak 023,KPP Madya Tangerang,Kanwil DJP Banten,BADAN,0.0,0.0,0.0,0.0,0.0,0.2733442067263916,0.2200000360239198,0.0,0.0,0.95,0.0,3,1,X3Y1,Sedang
+NPWP_247,2024,Wajib Pajak 247,KPP Pratama Kotamobagu,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_024,2024,Wajib Pajak 024,KPP Pratama Batam Selatan,Kanwil DJP Kepulauan Riau,BADAN,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.615,0.0,3,1,X3Y1,Sedang
+NPWP_025,2024,Wajib Pajak 025,KPP Pratama Tanjung Balai Karimun,Kanwil DJP Kepulauan Riau,BADAN,0.0,1.0,0.0,0.0,0.0,0.158435271732337,0.11,0.0,0.0,0.22,0.0,2,1,X2Y1,Rendah
+NPWP_026,2024,Wajib Pajak 026,KPP Pratama Singaraja,Kanwil DJP Bali,BADAN,1.0,0.0,0.0,0.0,0.0,0.2020710836642435,0.1987158636535027,0.0,165602410.0,0.8877777777777777,165602410.0,3,2,X3Y2,Tinggi
+NPWP_027,2024,Wajib Pajak 027,KPP Madya Denpasar,Kanwil DJP Bali,BADAN,1.0,0.0,0.0,0.0,0.0010887165558519,0.2032537191465844,0.22,0.0,459412749.0,0.8466666666666667,459412749.0,3,2,X3Y2,Tinggi
+NPWP_246,2024,Wajib Pajak 246,KPP Pratama Batu,Kanwil DJP Jawa Timur III,BADAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_028,2024,Wajib Pajak 028,KPP Pratama Singaraja,Kanwil DJP Bali,BADAN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6360119642.0,0.0,6360119642.0,1,3,X1Y3,Sedang
+NPWP_029,2024,Wajib Pajak 029,KPP Pratama Lubuk Pakam,Kanwil DJP Sumatera Utara I,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_245,2024,Wajib Pajak 245,KPP Pratama Jakarta Kemayoran,Kanwil DJP Jakarta Pusat,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_030,2024,Wajib Pajak 030,KPP Madya Dua Semarang,Kanwil DJP Jawa Tengah I,BADAN,1.0,0.0,0.0,0.0,0.7883535943520364,0.3756241394527717,0.0,0.0,197459968145.0,1.0,197459968145.0,3,3,X3Y3,Tinggi
+NPWP_244,2024,Wajib Pajak 244,KPP Pratama Singaraja,Kanwil DJP Bali,BADAN,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1032000.0,0.2966666666666667,1032000.0,2,1,X2Y1,Rendah
+NPWP_243,2024,Wajib Pajak 243,KPP Pratama Semarang Barat,Kanwil DJP Jawa Tengah I,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.160568591446333,0.0,0.0,0.0733333333333333,0.0,2,1,X2Y1,Rendah
+NPWP_031,2024,Wajib Pajak 031,KPP Pratama Binjai,Kanwil DJP Sumatera Utara I,BADAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_242,2024,Wajib Pajak 242,KPP Pratama Singaraja,Kanwil DJP Bali,BADAN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,782026458.0,0.0,782026458.0,1,2,X1Y2,Rendah
+NPWP_241,2024,Wajib Pajak 241,KPP Pratama Jakarta Cilandak,Kanwil DJP Jakarta Selatan II,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_240,2024,Wajib Pajak 240,KPP Pratama Gianyar,Kanwil DJP Bali,BADAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_239,2024,Wajib Pajak 239,KPP Pratama Kotamobagu,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",BADAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_238,2024,Wajib Pajak 238,KPP Pratama Singaraja,Kanwil DJP Bali,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_032,2024,Wajib Pajak 032,KPP Madya Denpasar,Kanwil DJP Bali,BADAN,1.0,0.0,0.0,0.0,1.240207160640089,0.6900837838174169,0.22,0.0,510710474550.0,1.0,510710474550.0,3,3,X3Y3,Tinggi
+NPWP_237,2024,Wajib Pajak 237,KPP Pratama Tabanan,Kanwil DJP Bali,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_236,2024,Wajib Pajak 236,KPP Pratama Sleman,Kanwil DJP Daerah Istimewa Yogyakarta,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_235,2024,Wajib Pajak 235,KPP Pratama Gianyar,Kanwil DJP Bali,BADAN,0.0,0.0,0.0,0.0,0.0,0.0175353200391896,0.2003524388247201,0.0,0.0,0.7666666666666667,0.0,3,1,X3Y1,Sedang
+NPWP_234,2024,Wajib Pajak 234,KPP Pratama Kupang,Kanwil DJP Nusa Tenggara,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_233,2024,Wajib Pajak 233,KPP Pratama Balige,Kanwil DJP Sumatera Utara II,BADAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_232,2024,Wajib Pajak 232,KPP Pratama Jakarta Kebon Jeruk Satu,Kanwil DJP Jakarta Barat,BADAN,1.0,0.0,0.0,0.0,0.0,0.1497330357499573,0.0,0.0,9395882632.0,0.8783333333333333,9395882632.0,3,3,X3Y3,Tinggi
+NPWP_231,2024,Wajib Pajak 231,KPP Pratama Denpasar Timur,Kanwil DJP Bali,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_230,2024,Wajib Pajak 230,KPP Pratama Bitung,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_033,2024,Wajib Pajak 033,KPP Madya Malang,Kanwil DJP Jawa Timur III,BADAN,1.0,0.0,0.0,0.0,1.3424408520574054,0.4414678374131765,0.0,0.0,24157399990.0,0.9966666666666668,24157399990.0,3,3,X3Y3,Tinggi
+NPWP_229,2024,Wajib Pajak 229,KPP Pratama Tabanan,Kanwil DJP Bali,BADAN,1.0,0.0,0.0,0.0,0.0095660098962147,0.5018817484963595,0.22,0.0,1465693244.0,1.0,1465693244.0,3,3,X3Y3,Tinggi
+NPWP_034,2024,Wajib Pajak 034,KPP Pratama Tabanan,Kanwil DJP Bali,BADAN,0.0,0.0,0.0,0.0,0.0,0.0292346965769006,0.11,0.0,0.0,0.2701111111111111,0.0,2,1,X2Y1,Rendah
+NPWP_035,2024,Wajib Pajak 035,KPP Pratama Tabanan,Kanwil DJP Bali,BADAN,1.0,0.0,0.0,0.0,315.5947328327348,0.2690777015997388,0.0,0.0,2900000000.0,0.9533333333333334,2900000000.0,3,3,X3Y3,Tinggi
+NPWP_228,2024,Wajib Pajak 228,KPP Pratama Kupang,Kanwil DJP Nusa Tenggara,BADAN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,435117465.36,0.0,0.0,435117465.36,1,2,X1Y2,Rendah
+NPWP_227,2024,Wajib Pajak 227,KPP Pratama Kotamobagu,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_226,2024,Wajib Pajak 226,KPP Pratama Jakarta Grogol Petamburan,Kanwil DJP Jakarta Barat,BADAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_225,2024,Wajib Pajak 225,KPP Pratama Semarang Barat,Kanwil DJP Jawa Tengah I,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_224,2024,Wajib Pajak 224,KPP Pratama Singaraja,Kanwil DJP Bali,BADAN,1.0,0.0,0.0,0.0,0.0049914739416925,0.2599672387711567,0.14865807226934,0.0,36908094.0,0.9333333333333332,36908094.0,3,1,X3Y1,Sedang
+NPWP_036,2024,Wajib Pajak 036,KPP Madya Dua Semarang,Kanwil DJP Jawa Tengah I,BADAN,1.0,0.0,0.0,0.0,1.4935112756370417,0.6384424648254393,0.22,0.0,245863577801.0,1.0,245863577801.0,3,3,X3Y3,Tinggi
+NPWP_223,2024,Wajib Pajak 223,KPP Pratama Kupang,Kanwil DJP Nusa Tenggara,BADAN,0.0,0.0,0.0,0.0,0.0,0.3628606044124747,0.11,0.0,0.0,0.4778888888888889,0.0,2,1,X2Y1,Rendah
+NPWP_222,2024,Wajib Pajak 222,KPP Pratama Tanjung Pinang,Kanwil DJP Kepulauan Riau,BADAN,0.0,0.0,0.0,0.1481252117208672,0.0,0.2254996128990333,0.11,0.0,0.0,0.0533333333333333,0.0,2,1,X2Y1,Rendah
+NPWP_221,2024,Wajib Pajak 221,KPP Pratama Kotamobagu,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",BADAN,0.0,0.0,0.0,0.0,0.0,0.254230446865915,0.22,0.0,437071213.0,0.95,437071213.0,3,2,X3Y2,Tinggi
+NPWP_220,2024,Wajib Pajak 220,KPP Pratama Jakarta Kebayoran Baru Dua,Kanwil DJP Jakarta Selatan II,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_037,2024,Wajib Pajak 037,KPP Pratama Ponorogo,Kanwil DJP Jawa Timur II,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_038,2024,Wajib Pajak 038,KPP Pratama Badung Utara,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_219,2024,Wajib Pajak 219,KPP Pratama Manado,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_218,2024,Wajib Pajak 218,KPP Pratama Denpasar Barat,Kanwil DJP Bali,BADAN,1.0,0.0,0.0,0.0,0.0,0.2160702455372613,0.0,0.0,30172792.0,0.8066666666666666,30172792.0,3,1,X3Y1,Sedang
+NPWP_039,2024,Wajib Pajak 039,KPP Madya Denpasar,Kanwil DJP Bali,BADAN,1.0,0.0,0.0,0.0,0.7824554907224989,0.4288486305571597,0.22,0.0,746692981032.0,1.0,746692981032.0,3,3,X3Y3,Tinggi
+NPWP_217,2024,Wajib Pajak 217,KPP Madya Dua Jakarta Barat,Kanwil DJP Jakarta Barat,BADAN,0.0,0.0,0.0,0.0,0.0,0.2413339327549518,0.0,0.0,0.0,0.5101111111111111,0.0,3,1,X3Y1,Sedang
+NPWP_216,2024,Wajib Pajak 216,KPP Pratama Singaraja,Kanwil DJP Bali,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_215,2024,Wajib Pajak 215,KPP Pratama Kotamobagu,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_214,2024,Wajib Pajak 214,KPP Pratama Singaraja,Kanwil DJP Bali,BADAN,0.0,0.0,0.0,0.0,0.0,0.2039459992969413,0.11,2959983.0,0.0,0.0851111111111111,2959983.0,2,1,X2Y1,Rendah
+NPWP_040,2024,Wajib Pajak 040,KPP Pratama Tegal,Kanwil DJP Jawa Tengah I,BADAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_213,2024,Wajib Pajak 213,KPP Pratama Makassar Utara,"Kanwil DJP Sulawesi Selatan, Barat, dan Tenggara",BADAN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_041,2024,Wajib Pajak 041,KPP Pratama Semarang Gayamsari,Kanwil DJP Jawa Tengah I,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_042,2024,Wajib Pajak 042,KPP Pratama Bitung,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",BADAN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12027216.400000006,73513514.0,0.0,73513514.0,1,2,X1Y2,Rendah
+NPWP_211,2024,Wajib Pajak 211,KPP Pratama Serang Timur,Kanwil DJP Banten,BADAN,0.0,0.0,0.0,0.0,0.0,0.0481471444097176,0.22,0.0,6971965000.0,0.9827777777777778,6971965000.0,3,3,X3Y3,Tinggi
+NPWP_210,2024,Wajib Pajak 210,KPP Pratama Kotamobagu,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_209,2024,Wajib Pajak 209,KPP Pratama Singaraja,Kanwil DJP Bali,BADAN,0.0,0.0,0.0,0.0,1.197555359455314,0.0265941944502823,0.0,0.0,12378353645.0,0.8833333333333333,12378353645.0,3,3,X3Y3,Tinggi
+NPWP_208,2024,Wajib Pajak 208,KPP Pratama Kotamobagu,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_207,2024,Wajib Pajak 207,KPP Pratama Sidoarjo Utara,Kanwil DJP Jawa Timur II,BADAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_206,2024,Wajib Pajak 206,KPP Pratama Bitung,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",BADAN,0.0,0.0,0.0,0.0,0.0,0.0807595628318584,0.11,0.0,0.0,0.2901111111111111,0.0,2,1,X2Y1,Rendah
+NPWP_205,2024,Wajib Pajak 205,KPP Pratama Singaraja,Kanwil DJP Bali,BADAN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_204,2024,Wajib Pajak 204,KPP Pratama Manado,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",BADAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_203,2024,Wajib Pajak 203,KPP Pratama Badung Utara,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.100017493877143,0.0,0.0,0.0033333333333333,0.0,1,1,X1Y1,Rendah
+NPWP_202,2024,Wajib Pajak 202,KPP Pratama Bitung,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_201,2024,Wajib Pajak 201,KPP Pratama Balikpapan Barat,Kanwil DJP Kalimantan Timur dan Utara,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_043,2024,Wajib Pajak 043,KPP Madya Denpasar,Kanwil DJP Bali,BADAN,1.0,0.0,0.0,0.0,0.0026552520994401,0.2540669035208451,0.2073257696102474,0.0,397889069.0,0.9933333333333332,397889069.0,3,2,X3Y2,Tinggi
+NPWP_200,2024,Wajib Pajak 200,KPP Pratama Denpasar Timur,Kanwil DJP Bali,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_044,2024,Wajib Pajak 044,KPP Madya Dua Semarang,Kanwil DJP Jawa Tengah I,BADAN,1.0,0.0,0.0,0.0,0.0,0.1937410036113768,0.22,0.0,0.0,0.3777777777777777,0.0,2,1,X2Y1,Rendah
+NPWP_199,2024,Wajib Pajak 199,KPP Pratama Cibinong,Kanwil DJP Jawa Barat III,BADAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_198,2024,Wajib Pajak 198,KPP Pratama Medan Barat,Kanwil DJP Sumatera Utara I,BADAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_197,2024,Wajib Pajak 197,KPP Pratama Medan Belawan,Kanwil DJP Sumatera Utara I,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_196,2024,Wajib Pajak 196,KPP Pratama Jakarta Kembangan,Kanwil DJP Jakarta Barat,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_195,2024,Wajib Pajak 195,KPP Pratama Surabaya Sukomanunggal,Kanwil DJP Jawa Timur I,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.05,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_194,2024,Wajib Pajak 194,KPP Pratama Pematang Siantar,Kanwil DJP Sumatera Utara II,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_193,2024,Wajib Pajak 193,KPP Pratama Bandung Tegallega,Kanwil DJP Jawa Barat I,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_192,2024,Wajib Pajak 192,KPP Pratama Jakarta Cengkareng,Kanwil DJP Jakarta Barat,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.05,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_191,2024,Wajib Pajak 191,KPP Pratama Tabanan,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_190,2024,Wajib Pajak 190,KPP Pratama Jakarta Kebayoran Baru Dua,Kanwil DJP Jakarta Selatan II,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_189,2024,Wajib Pajak 189,KPP Pratama Surabaya Karangpilang,Kanwil DJP Jawa Timur I,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_188,2024,Wajib Pajak 188,KPP Pratama Pondok Aren,Kanwil DJP Banten,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_187,2024,Wajib Pajak 187,KPP Pratama Sidoarjo Barat,Kanwil DJP Jawa Timur II,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_186,2024,Wajib Pajak 186,KPP Pratama Jakarta Grogol Petamburan,Kanwil DJP Jakarta Barat,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_185,2024,Wajib Pajak 185,KPP Pratama Bandung Cibeunying,Kanwil DJP Jawa Barat I,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_184,2024,Wajib Pajak 184,KPP Pratama Mojokerto,Kanwil DJP Jawa Timur II,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_183,2024,Wajib Pajak 183,KPP Pratama Jakarta Cengkareng,Kanwil DJP Jakarta Barat,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_045,2024,Wajib Pajak 045,KPP Madya Dua Tangerang,Kanwil DJP Banten,BADAN,0.0,0.0,0.0,0.0,0.0,0.0467040314448335,0.22,0.0,0.0,0.9827777777777778,0.0,3,1,X3Y1,Sedang
+NPWP_182,2024,Wajib Pajak 182,KPP Pratama Ende,Kanwil DJP Nusa Tenggara,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_181,2024,Wajib Pajak 181,KPP Pratama Badung Utara,Kanwil DJP Bali,BADAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_046,2024,Wajib Pajak 046,KPP Pratama Tabanan,Kanwil DJP Bali,BADAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_180,2024,Wajib Pajak 180,KPP Pratama Badung Utara,Kanwil DJP Bali,BADAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_179,2024,Wajib Pajak 179,KPP Pratama Batu,Kanwil DJP Jawa Timur III,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_047,2024,Wajib Pajak 047,KPP Pratama Denpasar Timur,Kanwil DJP Bali,BADAN,0.0,0.0,0.0,0.0,0.0,1.2611302674919462,0.0,10591420.8,0.0,0.7872222222222223,10591420.8,3,1,X3Y1,Sedang
+NPWP_178,2024,Wajib Pajak 178,KPP Pratama Denpasar Timur,Kanwil DJP Bali,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_177,2024,Wajib Pajak 177,KPP Pratama Cibinong,Kanwil DJP Jawa Barat III,BADAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_048,2024,Wajib Pajak 048,KPP Madya Dua Tangerang,Kanwil DJP Banten,BADAN,0.0,0.0,0.0,0.0,0.0,0.0622550246798031,0.2077723603140902,0.0,196500000.0,0.986111111111111,196500000.0,3,2,X3Y2,Tinggi
+NPWP_176,2024,Wajib Pajak 176,KPP Pratama Jakarta Menteng Dua,Kanwil DJP Jakarta Pusat,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0568207230711889,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_175,2024,Wajib Pajak 175,KPP Pratama Tabanan,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_174,2024,Wajib Pajak 174,KPP Pratama Badung Utara,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_173,2024,Wajib Pajak 173,KPP Pratama Denpasar Barat,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_049,2024,Wajib Pajak 049,KPP Pratama Makassar Utara,"Kanwil DJP Sulawesi Selatan, Barat, dan Tenggara",BADAN,0.0,0.0,0.0,0.0,0.0,0.2669838241144946,0.11,0.0,0.0,0.1251111111111111,0.0,2,1,X2Y1,Rendah
+NPWP_172,2024,Wajib Pajak 172,KPP Pratama Gianyar,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.1520537124802527,0.0,0.0,0.05,0.0,2,1,X2Y1,Rendah
+NPWP_171,2024,Wajib Pajak 171,KPP Pratama Sidoarjo Barat,Kanwil DJP Jawa Timur II,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_050,2024,Wajib Pajak 050,KPP Pratama Bitung,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",BADAN,1.0,1.0,0.0,0.0,0.0,0.2300495324795649,0.1972858818303723,0.0,0.0,0.84,0.0,3,1,X3Y1,Sedang
+NPWP_170,2024,Wajib Pajak 170,KPP Pratama Tigaraksa,Kanwil DJP Banten,BADAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_169,2024,Wajib Pajak 169,KPP Pratama Cikarang Selatan,Kanwil DJP Jawa Barat II,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.05,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_168,2024,Wajib Pajak 168,KPP Pratama Cibinong,Kanwil DJP Jawa Barat III,BADAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_167,2024,Wajib Pajak 167,KPP Pratama Ambon,"Kanwil DJP Papua, Papua Barat, dan Maluku",BADAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_166,2024,Wajib Pajak 166,KPP Pratama Denpasar Barat,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_165,2024,Wajib Pajak 165,KPP Pratama Tabanan,Kanwil DJP Bali,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_164,2024,Wajib Pajak 164,KPP Pratama Makassar Utara,"Kanwil DJP Sulawesi Selatan, Barat, dan Tenggara",OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.05,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_163,2024,Wajib Pajak 163,KPP Pratama Tangerang Barat,Kanwil DJP Banten,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_162,2024,Wajib Pajak 162,KPP Pratama Jakarta Mampang Prapatan,Kanwil DJP Jakarta Selatan I,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_161,2024,Wajib Pajak 161,KPP Pratama Indramayu,Kanwil DJP Jawa Barat II,BADAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_160,2024,Wajib Pajak 160,KPP Pratama Cikarang Selatan,Kanwil DJP Jawa Barat II,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_051,2024,Wajib Pajak 051,KPP Pratama Kupang,Kanwil DJP Nusa Tenggara,BADAN,0.0,0.0,0.0,0.0,0.0,0.4781081396449704,0.11,206797200.0,0.0,0.2612222222222222,206797200.0,2,2,X2Y2,Sedang
+NPWP_052,2024,Wajib Pajak 052,KPP Pratama Semarang Barat,Kanwil DJP Jawa Tengah I,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_159,2024,Wajib Pajak 159,KPP Pratama Gianyar,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_158,2024,Wajib Pajak 158,KPP Pratama Singosari,Kanwil DJP Jawa Timur III,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_157,2024,Wajib Pajak 157,KPP Pratama Jakarta Cilandak,Kanwil DJP Jakarta Selatan II,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_156,2024,Wajib Pajak 156,KPP Pratama Maumere,Kanwil DJP Nusa Tenggara,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_155,2024,Wajib Pajak 155,KPP Pratama Denpasar Timur,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.05,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_154,2024,Wajib Pajak 154,KPP Pratama Makassar Utara,"Kanwil DJP Sulawesi Selatan, Barat, dan Tenggara",OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_153,2024,Wajib Pajak 153,KPP Pratama Tapaktuan,Kanwil DJP Aceh,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_152,2024,Wajib Pajak 152,KPP Pratama Tegal,Kanwil DJP Jawa Tengah I,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_151,2024,Wajib Pajak 151,KPP Pratama Denpasar Barat,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_150,2024,Wajib Pajak 150,KPP Pratama Manado,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_053,2024,Wajib Pajak 053,KPP Pratama Kotamobagu,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_054,2024,Wajib Pajak 054,KPP Pratama Tabanan,Kanwil DJP Bali,BADAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_055,2024,Wajib Pajak 055,KPP Pratama Tangerang Barat,Kanwil DJP Banten,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.05,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_056,2024,Wajib Pajak 056,KPP Pratama Tegal,Kanwil DJP Jawa Tengah I,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_057,2024,Wajib Pajak 057,KPP Madya Dua Surabaya,Kanwil DJP Jawa Timur I,OP NON KARYAWAN,0.0,0.0,0.0,0.6742053445850914,0.9949951491690764,1.0,0.2168077962979469,0.0,5762468921.0,0.3133333333333333,5762468921.0,2,3,X2Y3,Tinggi
+NPWP_058,2024,Wajib Pajak 058,KPP Pratama Jakarta Penjaringan,Kanwil DJP Jakarta Utara,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_149,2024,Wajib Pajak 149,KPP Pratama Bandung Tegallega,Kanwil DJP Jawa Barat I,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_148,2024,Wajib Pajak 148,KPP Pratama Badung Utara,Kanwil DJP Bali,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_059,2024,Wajib Pajak 059,KPP Pratama Manado,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_060,2024,Wajib Pajak 060,KPP Pratama Bekasi Utara,Kanwil DJP Jawa Barat III,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_147,2024,Wajib Pajak 147,KPP Pratama Jakarta Cakung,Kanwil DJP Jakarta Timur,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_061,2024,Wajib Pajak 061,KPP Pratama Manado,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_146,2024,Wajib Pajak 146,KPP Pratama Denpasar Timur,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.05,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_062,2024,Wajib Pajak 062,KPP Pratama Gianyar,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_145,2024,Wajib Pajak 145,KPP Pratama Tangerang Barat,Kanwil DJP Banten,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_144,2024,Wajib Pajak 144,KPP Pratama Gianyar,Kanwil DJP Bali,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_143,2024,Wajib Pajak 143,KPP Pratama Malang Selatan,Kanwil DJP Jawa Timur III,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_063,2024,Wajib Pajak 063,KPP Pratama Malang Selatan,Kanwil DJP Jawa Timur III,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_142,2024,Wajib Pajak 142,KPP Pratama Kediri,Kanwil DJP Jawa Timur III,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_141,2024,Wajib Pajak 141,KPP Pratama Surabaya Sukomanunggal,Kanwil DJP Jawa Timur I,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_140,2024,Wajib Pajak 140,KPP Pratama Jakarta Kebayoran Lama,Kanwil DJP Jakarta Selatan II,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_064,2024,Wajib Pajak 064,KPP Pratama Sleman,Kanwil DJP Daerah Istimewa Yogyakarta,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_065,2024,Wajib Pajak 065,KPP Pratama Tenggarong,Kanwil DJP Kalimantan Timur dan Utara,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_139,2024,Wajib Pajak 139,KPP Pratama Serpong,Kanwil DJP Banten,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_066,2024,Wajib Pajak 066,KPP Pratama Singaraja,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_067,2024,Wajib Pajak 067,KPP Pratama Tanjung Pinang,Kanwil DJP Kepulauan Riau,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_138,2024,Wajib Pajak 138,KPP Pratama Ruteng,Kanwil DJP Nusa Tenggara,BADAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_137,2024,Wajib Pajak 137,KPP Pratama Surabaya Mulyorejo,Kanwil DJP Jawa Timur I,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_136,2024,Wajib Pajak 136,KPP Pratama Singaraja,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_135,2024,Wajib Pajak 135,KPP Pratama Tabanan,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.05,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_134,2024,Wajib Pajak 134,KPP Pratama Temanggung,Kanwil DJP Jawa Tengah II,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_133,2024,Wajib Pajak 133,KPP Pratama Pekanbaru Senapelan,Kanwil DJP Riau,BADAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_131,2024,Wajib Pajak 131,KPP Pratama Kotamobagu,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_130,2024,Wajib Pajak 130,KPP Pratama Metro,Kanwil DJP Bengkulu dan Lampung,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_129,2024,Wajib Pajak 129,KPP Pratama Bantaeng,"Kanwil DJP Sulawesi Selatan, Barat, dan Tenggara",OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_128,2024,Wajib Pajak 128,KPP Pratama Kotamobagu,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_127,2024,Wajib Pajak 127,KPP Pratama Jakarta Cengkareng,Kanwil DJP Jakarta Barat,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_126,2024,Wajib Pajak 126,KPP Pratama Cimahi,Kanwil DJP Jawa Barat I,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_125,2024,Wajib Pajak 125,KPP Pratama Badung Utara,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_124,2024,Wajib Pajak 124,KPP Pratama Metro,Kanwil DJP Bengkulu dan Lampung,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_123,2024,Wajib Pajak 123,KPP Pratama Sidoarjo Utara,Kanwil DJP Jawa Timur II,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_122,2024,Wajib Pajak 122,KPP Pratama Ciawi,Kanwil DJP Jawa Barat III,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.05,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_068,2024,Wajib Pajak 068,KPP Madya Surakarta,Kanwil DJP Jawa Tengah II,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_069,2024,Wajib Pajak 069,KPP Pratama Manado,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_121,2024,Wajib Pajak 121,KPP Pratama Singaraja,Kanwil DJP Bali,BADAN,0.0,0.0,0.0,0.0,0.0,0.4734856451936927,0.11,204899982.0,0.0,0.2745555555555556,204899982.0,2,2,X2Y2,Sedang
+NPWP_120,2024,Wajib Pajak 120,KPP Pratama Sukoharjo,Kanwil DJP Jawa Tengah II,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_119,2024,Wajib Pajak 119,KPP Pratama Singaraja,Kanwil DJP Bali,BADAN,0.0,0.0,0.0,0.0,0.0224712285815878,0.0671210692050714,0.0,0.0,0.0,0.8,0.0,3,1,X3Y1,Sedang
+NPWP_070,2024,Wajib Pajak 070,KPP Pratama Jakarta Pasar Rebo,Kanwil DJP Jakarta Timur,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_118,2024,Wajib Pajak 118,KPP Madya Denpasar,Kanwil DJP Bali,BADAN,0.0,0.0,0.0,0.0,0.0,0.4089077409908301,0.0,0.0,0.0,0.9312222222222224,0.0,3,1,X3Y1,Sedang
+NPWP_071,2024,Wajib Pajak 071,KPP Pratama Surabaya Sawahan,Kanwil DJP Jawa Timur I,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_117,2024,Wajib Pajak 117,KPP Pratama Badung Selatan,Kanwil DJP Bali,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_116,2024,Wajib Pajak 116,KPP Pratama Tanjung Balai Karimun,Kanwil DJP Kepulauan Riau,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_072,2024,Wajib Pajak 072,KPP Pratama Manado,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.2077949491390353,0.0,0.0,0.28,0.0,2,1,X2Y1,Rendah
+NPWP_115,2024,Wajib Pajak 115,KPP Pratama Bekasi Barat,Kanwil DJP Jawa Barat III,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_114,2024,Wajib Pajak 114,KPP Pratama Kupang,Kanwil DJP Nusa Tenggara,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_113,2024,Wajib Pajak 113,KPP Pratama Sibolga,Kanwil DJP Sumatera Utara II,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_112,2024,Wajib Pajak 112,KPP Pratama Jember,Kanwil DJP Jawa Timur III,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_111,2024,Wajib Pajak 111,KPP Pratama Sukoharjo,Kanwil DJP Jawa Tengah II,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_073,2024,Wajib Pajak 073,KPP Pratama Denpasar Barat,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.615,0.0,3,1,X3Y1,Sedang
+NPWP_110,2024,Wajib Pajak 110,KPP Pratama Gianyar,Kanwil DJP Bali,OP NON KARYAWAN,0.0,0.0,0.0,0.4588814896300905,0.0,0.0,0.0,252620150.24,0.0,0.2333333333333333,252620150.24,2,2,X2Y2,Sedang
+NPWP_109,2024,Wajib Pajak 109,KPP Pratama Gorontalo,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_108,2024,Wajib Pajak 108,KPP Pratama Badung Selatan,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_107,2024,Wajib Pajak 107,KPP Pratama Badung Utara,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_106,2024,Wajib Pajak 106,KPP Pratama Gianyar,Kanwil DJP Bali,BADAN,1.0,0.0,0.0,0.0,0.0,0.1805539409469243,0.0,0.0,0.0,0.78,0.0,3,1,X3Y1,Sedang
+NPWP_105,2024,Wajib Pajak 105,KPP Pratama Lubuk Pakam,Kanwil DJP Sumatera Utara I,BADAN,1.0,0.0,0.0,0.0,0.0,0.3255913068794444,0.22,0.0,0.0,0.9883333333333332,0.0,3,1,X3Y1,Sedang
+NPWP_104,2024,Wajib Pajak 104,KPP Madya Jakarta Pusat,Kanwil DJP Jakarta Pusat,BADAN,1.0,0.0,0.0,0.0,0.0,0.3366007801939354,0.0,0.0,465269958.0,0.9633333333333334,465269958.0,3,2,X3Y2,Tinggi
+NPWP_103,2024,Wajib Pajak 103,KPP Pratama Kotamobagu,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_102,2024,Wajib Pajak 102,KPP Pratama Ponorogo,Kanwil DJP Jawa Timur II,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_101,2024,Wajib Pajak 101,KPP Pratama Bandung Cibeunying,Kanwil DJP Jawa Barat I,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_100,2024,Wajib Pajak 100,KPP Pratama Singaraja,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_099,2024,Wajib Pajak 099,KPP Pratama Pondok Gede,Kanwil DJP Jawa Barat III,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_098,2024,Wajib Pajak 098,KPP Pratama Denpasar Barat,Kanwil DJP Bali,BADAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_097,2024,Wajib Pajak 097,KPP Pratama Singaraja,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_096,2024,Wajib Pajak 096,KPP Pratama Badung Utara,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_095,2024,Wajib Pajak 095,KPP Pratama Banjarbaru,Kanwil DJP Kalimantan Selatan dan Tengah,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_094,2024,Wajib Pajak 094,KPP Pratama Cileungsi,Kanwil DJP Jawa Barat III,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_093,2024,Wajib Pajak 093,KPP Pratama Singaraja,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_092,2024,Wajib Pajak 092,KPP Pratama Jakarta Kembangan,Kanwil DJP Jakarta Barat,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_091,2024,Wajib Pajak 091,KPP Pratama Pare,Kanwil DJP Jawa Timur III,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_090,2024,Wajib Pajak 090,KPP Pratama Sidoarjo Barat,Kanwil DJP Jawa Timur II,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_089,2024,Wajib Pajak 089,KPP Pratama Baubau,"Kanwil DJP Sulawesi Selatan, Barat, dan Tenggara",OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_074,2024,Wajib Pajak 074,KPP Pratama Tanjung Pinang,Kanwil DJP Kepulauan Riau,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_075,2024,Wajib Pajak 075,KPP Pratama Palembang Ilir Timur,Kanwil DJP Sumatera Selatan dan Kepulauan Bangka Belitung,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_088,2024,Wajib Pajak 088,KPP Pratama Lubuk Pakam,Kanwil DJP Sumatera Utara I,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_087,2024,Wajib Pajak 087,KPP Pratama Jakarta Kelapa Gatling,Kanwil DJP Jakarta Utara,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_086,2024,Wajib Pajak 086,KPP Pratama Badung Utara,Kanwil DJP Bali,BADAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_085,2024,Wajib Pajak 085,KPP Pratama Badung Selatan,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_084,2024,Wajib Pajak 084,KPP Pratama Cikarang Selatan,Kanwil DJP Jawa Barat II,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_076,2024,Wajib Pajak 076,KPP Pratama Manado,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_083,2024,Wajib Pajak 083,KPP Pratama Cirebon Satu,Kanwil DJP Jawa Barat II,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_082,2024,Wajib Pajak 082,KPP Pratama Pondok Aren,Kanwil DJP Banten,OP NON KARYAWAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_077,2024,Wajib Pajak 077,KPP Pratama Denpasar Barat,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_081,2024,Wajib Pajak 081,KPP Pratama Manado,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",OP NON KARYAWAN,0.0,1.0,0.0,0.9533523086654015,0.0,0.0,0.05,0.0,0.0,0.1733333333333333,0.0,2,1,X2Y1,Rendah
+NPWP_080,2024,Wajib Pajak 080,KPP Pratama Singaraja,Kanwil DJP Bali,OP NON KARYAWAN,0.0,0.0,0.0,1.344488988764045,0.0,1.0,0.0852366560526741,0.0,0.0,0.3,0.0,2,1,X2Y1,Rendah
+NPWP_079,2024,Wajib Pajak 079,KPP Pratama Badung Utara,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_078,2024,Wajib Pajak 078,KPP Pratama Tabanan,Kanwil DJP Bali,OP NON KARYAWAN,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,X1Y1,Rendah
+NPWP_212,2024,Wajib Pajak 212,KPP Pratama Makassar Selatan,"Kanwil DJP Sulawesi Selatan, Barat, dan Tenggara",OP NON KARYAWAN,0.0,1.0,0.0,0.4867706726098634,0.0,0.0,0.0,0.0,0.0,0.1866666666666666,0.0,2,1,X2Y1,Rendah
+NPWP_132,2024,Wajib Pajak 132,KPP Pratama Manado,"Kanwil DJP Sulawesi Utara, Tengah, Gorontalo, dan Maluku Utara",BADAN,0.0,0.0,0.0,0.5402329749103942,0.0,0.0,0.0,0.0,0.0,0.2333333333333333,0.0,2,1,X2Y1,Rendah
