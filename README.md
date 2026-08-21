@@ -28,6 +28,7 @@ streamlit run app.py
 ```
 
 Lalu buka `http://localhost:8501` di browser.
+Streamlit ini dapat juga diakses online melalui https://crmmmea.streamlit.app/
 
 ## Halaman yang tersedia
 
