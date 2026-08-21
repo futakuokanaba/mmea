@@ -131,9 +131,9 @@ page = st.sidebar.radio(
 
 st.sidebar.markdown(
     "<div style='margin-top:25px;color:#b9c8dc;font-size:12px;line-height:1.6;"
-    "border-top:1px solid #1a3a5e;padding-top:14px'>Sumber: hasil pemodelan aktual "
-    "(notebook + populasi kuadran)<br>© 2026 Peta Risiko MMEA<br>"
-    "Direktorat Jenderal Pajak</div>",
+    "border-top:1px solid #1a3a5e;padding-top:14px'>Action Learning PJJ Data Analytics"
+    "<br>Peta Risiko MMEA<br>"
+    "<br>© 2026 Kelompok 1</div>",
     unsafe_allow_html=True,
 )
 
